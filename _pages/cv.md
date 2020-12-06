@@ -9,31 +9,44 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-- B.Eng. in Automation (Control Science and Engineering), Harbin Institute of Technology, Jul. 2021 (expected)
-- Guangdong Experimental High School, Jun. 2017 
+See  a complete version of [downloadable CV](https://edmundluan.github.io/files/CV_HaoLuan.pdf) for details. 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Education
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Harbin Institute of Technology, Shenzhen
+
+
+- B.E. in Automation (Control Science and Engineering), Aug. 2017 ~ Jul. 2021 (expected) 
+
+### Guangdong Experimental High School
+
+
+- General High School Diploma, Sep. 2014 ~ Jun. 2017 
+
+
+
+## Experience
+
+* Undergraduate Research Assistant, MAS Lab @ **Harbin Institute of Technology, Shenzhen**, Oct. 2019 ~ Present 
+* Visiting Research Student, Robotic Laboratory @ **Sun Yat-sen University**, Nov. 2015 ~ May 2016 
+
+
+
+## Projects
+
+### Distributed Consensus of Constrained MAS under Directed Graphs
+
+
+
+### Vision-Based Auto Parking
+
+
+
+### Six-Arm Robot Palletizing
+
+
+
+
 
 <!--
 Publications
@@ -53,10 +66,12 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
--->
 
-Service and leadership
+
+Leadership
 ======
 
 * Currently signed in to 43 different slack teams
+
+-->
 

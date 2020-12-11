@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal academic websites of Hao Luan"
+title: "My Websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

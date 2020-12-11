@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-See  a complete version of [downloadable CV](https://edmundluan.github.io/files/CV_HaoLuan.pdf) for details. 
+See  a complete version of [downloadable CV (PDF)](https://edmundluan.github.io/files/CV_HaoLuan.pdf) for details. 
 
 ## Education
 
@@ -34,15 +34,23 @@ See  a complete version of [downloadable CV](https://edmundluan.github.io/files/
 
 ## Projects
 
-### Distributed Consensus of Constrained MAS under Directed Graphs
+### Distributed Consensus of Constrained MAS under Directed Graphs 
+
+-   Advisor: Prof. [Jie Mei](http://faculty.hitsz.edu.cn/meijie) ([Google Scholar](https://scholar.google.com/citations?user=tyQm5IkAAAAJ)) 
 
 
 
 ### Vision-Based Auto Parking
 
+-   Advisor: Prof. [Haoyao Chen](http://nrs-lab.com/people/) 
+-   Team: Jiahao Fang, Hao Luan, Weijie Wu. 
 
 
-### Six-Arm Robot Palletizing
+
+### Six-Arm Robot Palletizing 
+
+-   Advisor: Prof. [Yunjiang Lou](http://faculty.hitsz.edu.cn/louyunjiang?lang=en) ([Google Scholar](https://scholar.google.com/citations?user=8Ulrn3cAAAAJ))  
+-   Team: Hao Luan, Fangcheng Zhu 
 
 
 

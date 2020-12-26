@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of Hao Luan's personal websites. Most of the sites are still under construction. For now, only the [CV page](https://edmundluan.github.io/cv) is available. 
+This is the front page of Hao Luan's personal pages. Most of the sites are still under construction. For now, only the [CV page](https://edmundluan.github.io/cv) is available. 
 
 <!--
 

@@ -54,7 +54,7 @@ See  a complete version of [downloadable CV (PDF)](https://edmundluan.github.io/
 -   Advisor: Prof. [Haoyao Chen](http://nrs-lab.com/people/) 
 -   Team: Jiahao Fang, Hao Luan, Weijie Wu. 
 -   Identified a specific parking sign by adopting filtering, color segmentation, perspective transformation, Canny edge detection and rectangle envelope. 
--   Designed an online closed-loop controller to control angular and linear velocities of an autonomous car, by employing multiple control schemes and using image information of the detected parking sign. •
+-   Designed an online closed-loop controller to control angular and linear velocities of an autonomous car, by employing multiple control schemes and using image information of the detected parking sign. 
 -   Integrated searching, detection, and motion control on ROS and successfully realized fully automated parking.
 
 
@@ -65,6 +65,10 @@ See  a complete version of [downloadable CV (PDF)](https://edmundluan.github.io/
 -   Team: Hao Luan, Fangcheng Zhu 
 -   Designed robot manipulator control algorithms using forward and inverse kinematics and LFPB trajectory planning. Built position management system to add, store, modify and delete position information of objects. 
 -   Achieved fast palletizing motions with high accuracy.
+
+<video src="../videos/Palletize.mp4" controls="controls">
+(Due to regulations of the laboratory, )
+
 
 
 

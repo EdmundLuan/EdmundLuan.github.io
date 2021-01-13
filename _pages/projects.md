@@ -1,46 +1,18 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
-permalink: /cv/
+title: "Projects"
+permalink: /projects/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
-See  a complete version of [downloadable CV (PDF)](https://edmundluan.github.io/files/CV_HaoLuan.pdf) for details. 
 
-## Education
-
-### Harbin Institute of Technology, Shenzhen
-
-
-- B.E. in Automation (Control Science and Engineering), Aug. 2017 ~ Jul. 2021 (expected) 
-
-    - Undergraduate Academic Merit Scholarship winner. 
-
-### Guangdong Experimental High School
-
-
-- General High School Diploma, Sep. 2014 ~ Jun. 2017 
-
-
-
-## Experience
-
-* Undergraduate Research Assistant, MAS Lab @ [**Harbin Institute of Technology, Shenzhen**](http://www.hitsz.edu.cn/index.html), Oct. 2019 ~ Present 
-* Visiting Research Student, Robotic Laboratory @ [**Sun Yat-sen University**](http://sysu.edu.cn/en/index.htm), Nov. 2015 ~ May 2016 
-
-
-
-## Selected Projects
-
-### Distributed Consensus of Constrained MAS under Directed Graphs (Ongoing)
+## Distributed Consensus of Constrained MAS under Directed Graphs (Ongoing)
 
 -   Advisor: Prof. [Jie Mei](http://faculty.hitsz.edu.cn/meijie) ([Google Scholar](https://scholar.google.com/citations?user=tyQm5IkAAAAJ)) 
 
-<img src="../images/1ord_basic.png" scale="100%">
+<img src="../images/1ord_basic.png" scale="70%">
 
 -   Description: 
     -   Consensus of multi-agent systems(MAS) has wide applications. Many consensus control algorithms have been proposed. However, state-of-the-art algorithms do not work well in realistic conditions. On one hand, MAS in real-life situations have various constraints, e.g. kinematic constraints, actuator saturation, safety concerns, etc., along with parameter uncertainties and disturbances. On the other hand, most algorithms assume that any point in the state spaces of agents is legit and therefore they do not have guarantees on not breaking the predesignated constraints. 
@@ -49,7 +21,7 @@ See  a complete version of [downloadable CV (PDF)](https://edmundluan.github.io/
 
 
 
-### Vision-Based Auto Parking
+## Vision-Based Auto Parking
 
 -   Advisor: Prof. [Haoyao Chen](http://nrs-lab.com/people/) 
 -   Team: Jiahao Fang, Hao Luan, Weijie Wu. 
@@ -59,7 +31,7 @@ See  a complete version of [downloadable CV (PDF)](https://edmundluan.github.io/
 
 
 
-### Six-Arm Robot Palletizing 
+## Six-Arm Robot Palletizing 
 
 -   Advisor: Prof. [Yunjiang Lou](http://faculty.hitsz.edu.cn/louyunjiang?lang=en) ([Google Scholar](https://scholar.google.com/citations?user=8Ulrn3cAAAAJ))  
 -   Team: Hao Luan, Fangcheng Zhu 
@@ -67,35 +39,5 @@ See  a complete version of [downloadable CV (PDF)](https://edmundluan.github.io/
 -   Achieved fast palletizing motions with high accuracy.
 
 <video src="../videos/Palletize.mp4" controls="controls">
-(Due to regulations of the laboratory, )
-
-
-
-
-<!--
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-
-Leadership
-======
-
-* Currently signed in to 43 different slack teams
-
--->
+(Due to regulations of the laboratory, we were only allowed to operate the machine with 25% of its max speed, so this video is played with 4X fast forward.)
 

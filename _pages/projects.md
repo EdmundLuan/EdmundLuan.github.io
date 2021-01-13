@@ -12,7 +12,7 @@ author_profile: true
 
 -   Advisor: Prof. [Jie Mei](http://faculty.hitsz.edu.cn/meijie) ([Google Scholar](https://scholar.google.com/citations?user=tyQm5IkAAAAJ)) 
 
-<img src="../images/1ord_basic.png" scale="70%">
+<img src="../images/1ord_basic.png" scale="60%">
 
 -   Description: 
     -   Consensus of multi-agent systems(MAS) has wide applications. Many consensus control algorithms have been proposed. However, state-of-the-art algorithms do not work well in realistic conditions. On one hand, MAS in real-life situations have various constraints, e.g. kinematic constraints, actuator saturation, safety concerns, etc., along with parameter uncertainties and disturbances. On the other hand, most algorithms assume that any point in the state spaces of agents is legit and therefore they do not have guarantees on not breaking the predesignated constraints. 
@@ -38,10 +38,9 @@ author_profile: true
 -   Designed robot manipulator control algorithms using forward and inverse kinematics and LFPB trajectory planning. Built position management system to add, store, modify and delete position information of objects. 
 -   Achieved fast palletizing motions with high accuracy.
 
-<video src="../videos/Palletize.mp4" controls autoplay loop>
+<video src="../videos/Palletize.mp4" width="800" height="600" controls autoplay loop></video>
 
 (Due to regulations of the laboratory, we were only allowed to operate the machine with 25% of its max speed, so this video is played with 4X fast forward.)
-
 
 
 ## Line Patrolling Robot
@@ -52,7 +51,8 @@ author_profile: true
 -   Designed a hybrid PID control algorithm based on the infrared sensors to control the robot tracking the desired black line.
 -   Integrated the hardware system, tested the robot and the algorithm in a complex map, and finished the task in 30s.
 
-<video src="../videos/line.mp4"  controls autoplay loop>
+
+<video src="../videos/line.mp4" width="800" height="600"  controls autoplay loop></video>
 
 (This video is only a test, not the final version of our robot.)
 
@@ -64,7 +64,7 @@ author_profile: true
 -   Designed a controller via second-, third-, and fourth-order state feedback respectively using poles placement techniques. 
 -   Designed a controller via output feedback using the root locus method. 
 
-<video src="../videos/InvertedPendulum.mp4" controls autoplay loop>
+<video src="../videos/InvertedPendulum.mp4" width="800" height="600" controls autoplay loop></video>
 
 
 

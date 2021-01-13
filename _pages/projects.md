@@ -52,7 +52,7 @@ author_profile: true
 -   Designed a hybrid PID control algorithm based on the infrared sensors to control the robot tracking the desired black line.
 -   Integrated the hardware system, tested the robot and the algorithm in a complex map, and finished the task in 30s.
 
-<video src="../videos/line.mp4" width="500" height="400" controls autoplay loop>
+<video src="../videos/line.mp4"  controls autoplay loop>
 
 (This video is only a test, not the final version of our robot.)
 

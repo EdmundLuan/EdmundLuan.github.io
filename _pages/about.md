@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My Personal Page"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of Hao Luan's personal pages. Most of the sites are still under construction. For now, only the [CV page](https://edmundluan.github.io/cv) is available. 
+Hi! Welcome to my personal pages!
+
+My name is Hao Luan (栾昊). I am currently an undergraduate student (expected to graduate in 2021) majoring in Automation at Harbin Institute of Technology. From 2019, I joined the MAS Lab led by Prof. Jie Mei at the School of Mechanical Engineering and Automation. My research interest mainly lies in the planning and control of multi-agent/robot systems (MAS/MRS). 
+
+
+
+
+
+Many pages of the site are still under construction. For now, feel free to visit the [CV page](https://edmundluan.github.io/cv) and have a look at my [projects](https://edmundluan.github.io/projects).  
+
+
+
+
+
+
 
 <!--
 

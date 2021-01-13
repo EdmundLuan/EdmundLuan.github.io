@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-See  a complete version of [downloadable CV (PDF)](https://edmundluan.github.io/files/CV_HaoLuan.pdf) for details. 
+See a detailed version (PDF) [here](https://edmundluan.github.io/files/CV_HaoLuan.pdf). 
 
 ## Education
 
@@ -36,40 +36,61 @@ See  a complete version of [downloadable CV (PDF)](https://edmundluan.github.io/
 
 ## Selected Projects
 
+Details are provided in the [Projects](https://edmundluan.github.io/projects/) page. 
+
 ### Distributed Consensus of Constrained MAS under Directed Graphs (Ongoing)
 
 -   Advisor: Prof. [Jie Mei](http://faculty.hitsz.edu.cn/meijie) ([Google Scholar](https://scholar.google.com/citations?user=tyQm5IkAAAAJ)) 
-
-<img src="../images/1ord_basic.png" scale="100%">
-
--   Description: 
-    -   Consensus of multi-agent systems(MAS) has wide applications. Many consensus control algorithms have been proposed. However, state-of-the-art algorithms do not work well in realistic conditions. On one hand, MAS in real-life situations have various constraints, e.g. kinematic constraints, actuator saturation, safety concerns, etc., along with parameter uncertainties and disturbances. On the other hand, most algorithms assume that any point in the state spaces of agents is legit and therefore they do not have guarantees on not breaking the predesignated constraints. 
-    -   In this project, we investigate **distributed** consensus control algorithms for MAS with **time-varying state constraints**, parameter uncertainties and external disturbances. We hope to extend applications of MAS into realistic scenarios involving the above conditions. 
-    -   Theoretical proof, numerical simulation and possibly physical experiments will be presented. Stay tuned. 
-
 
 
 ### Vision-Based Auto Parking
 
 -   Advisor: Prof. [Haoyao Chen](http://nrs-lab.com/people/) 
--   Team: Jiahao Fang, Hao Luan, Weijie Wu. 
--   Identified a specific parking sign by adopting filtering, color segmentation, perspective transformation, Canny edge detection and rectangle envelope. 
--   Designed an online closed-loop controller to control angular and linear velocities of an autonomous car, by employing multiple control schemes and using image information of the detected parking sign. 
--   Integrated searching, detection, and motion control on ROS and successfully realized fully automated parking.
-
+-   Team: Jiahao Fang, **Hao Luan**, Weijie Wu. 
 
 
 ### Six-Arm Robot Palletizing 
 
 -   Advisor: Prof. [Yunjiang Lou](http://faculty.hitsz.edu.cn/louyunjiang?lang=en) ([Google Scholar](https://scholar.google.com/citations?user=8Ulrn3cAAAAJ))  
--   Team: Hao Luan, Fangcheng Zhu 
--   Designed robot manipulator control algorithms using forward and inverse kinematics and LFPB trajectory planning. Built position management system to add, store, modify and delete position information of objects. 
--   Achieved fast palletizing motions with high accuracy.
-
-<video src="../videos/Palletize.mp4" controls="controls">
-(Due to regulations of the laboratory, )
+-   Team: **Hao Luan**, Fangcheng Zhu 
 
 
+### Line Patrolling Robot
+
+-   Advisor: Prof. [Haoyao Chen](http://nrs-lab.com/people/) 
+-   Team: **Hao Luan**, Fangcheng Zhu 
+
+
+### Stable Controller Design for Inverted Pendulum 
+
+-   Advisor: Prof. [Ai-Guo Wu](https://ieeexplore.ieee.org/author/38182430000) 
+-   Modeled and linearized the inverted pendulum system in transfer function model and state space model respectively. 
+-   Designed a controller via second-, third-, and fourth-order state feedback respectively using poles placement techniques. 
+
+
+### Stable Controller Design for the Magnetic Levitation 
+
+-   Advisor: Prof. Ai-Guo Wu 
+-   Modeled the magnetic levitation system and obtained its linearized plant model in transfer function. 
+-   Designed a feedback controller using the root locus method. 
+
+
+## Selected Adwards
+
+-   Honorable Mention in [MCM](https://www.comap.com/undergraduate/contests/) 
+-   Undergraduate Academic Merit Scholarship at HITSZ, 3 times 
+-   Third Prize in the [NOIP](http://www.noi.cn/) (National Olympiad in Informatics in Provinces) 
+-   Honor Roll in the [AMC12](https://www.maa.org/math-competitions/american-mathematics-contest-12-amc-12), invited to [AIME](https://www.maa.org/math-competitions/american-invitational-mathematics-examination-aime) 
+
+
+## Computer Literacy
+-   Programming: C/C++, [Julia](https://julialang.org/), Pascal, Python 
+-   Others: Git, LaTeX, Markdown, MATLAB, Wolfram Mathematica, ROS 
+
+
+## Extracurricular Activities
+-   Soccer player on the HITSZ Student Soccer Team 
+-   Volunteer services
 
 
 <!--

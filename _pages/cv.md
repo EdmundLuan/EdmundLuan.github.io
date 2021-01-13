@@ -64,15 +64,11 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 ### Stable Controller Design for Inverted Pendulum 
 
 -   Advisor: Prof. [Ai-Guo Wu](https://ieeexplore.ieee.org/author/38182430000) 
--   Modeled and linearized the inverted pendulum system in transfer function model and state space model respectively. 
--   Designed a controller via second-, third-, and fourth-order state feedback respectively using poles placement techniques. 
 
 
 ### Stable Controller Design for the Magnetic Levitation 
 
 -   Advisor: Prof. Ai-Guo Wu 
--   Modeled the magnetic levitation system and obtained its linearized plant model in transfer function. 
--   Designed a feedback controller using the root locus method. 
 
 
 ## Selected Adwards

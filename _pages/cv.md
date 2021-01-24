@@ -11,6 +11,8 @@ redirect_from:
 
 See a detailed version (PDF) [here](https://edmundluan.github.io/files/CV_HaoLuan.pdf). 
 
+
+
 ## Education
 
 ### Harbin Institute of Technology, Shenzhen
@@ -38,40 +40,38 @@ See a detailed version (PDF) [here](https://edmundluan.github.io/files/CV_HaoLua
 
 Details are provided in the [Projects](https://edmundluan.github.io/projects/) page. 
 
-### Distributed Consensus of Constrained MAS under Directed Graphs (Ongoing)
+-   <u>**Distributed Consensus of Constrained MAS under Directed Graphs (Ongoing)**</u>
+    -   Advisor: Prof. [Jie Mei](http://faculty.hitsz.edu.cn/meijie) ([Google Scholar](https://scholar.google.com/citations?user=tyQm5IkAAAAJ)) 
 
--   Advisor: Prof. [Jie Mei](http://faculty.hitsz.edu.cn/meijie) ([Google Scholar](https://scholar.google.com/citations?user=tyQm5IkAAAAJ)) 
+-   Vision-Based Auto Parking
+    -   Advisor: Prof. [Haoyao Chen](http://nrs-lab.com/people/) 
+    -   Team: Jiahao Fang, **Hao Luan**, Weijie Wu. 
 
+-   Six-Arm Robot Palletizing
+    -   Advisor: Prof. [Yunjiang Lou](http://faculty.hitsz.edu.cn/louyunjiang?lang=en) ([Google Scholar](https://scholar.google.com/citations?user=8Ulrn3cAAAAJ))  
+    -   Team: **Hao Luan**, Fangcheng Zhu 
 
-### Vision-Based Auto Parking
+-   Line Patrolling Robot
+    -   Advisor: Prof. [Haoyao Chen](http://nrs-lab.com/people/) 
+    -   Team: **Hao Luan**, Fangcheng Zhu 
 
--   Advisor: Prof. [Haoyao Chen](http://nrs-lab.com/people/) 
--   Team: Jiahao Fang, **Hao Luan**, Weijie Wu. 
+-   Stable Controller Design for Inverted Pendulum
+    -   Advisor: Prof. [Ai-Guo Wu](https://ieeexplore.ieee.org/author/38182430000) 
 
+-   Stable Controller Design for the Magnetic Levitation
+    -   Advisor: Prof. Ai-Guo Wu 
 
-### Six-Arm Robot Palletizing 
+-   Centralized Multi-Robot Task Allocation (at SYSU) 
+    -   Advisor: Prof. [Hui Cheng](http://sdcs.sysu.edu.cn/content/2504)  
+    -   Team: **Hao Luan**, Yanheng Wang, Zihao Zeng  
 
--   Advisor: Prof. [Yunjiang Lou](http://faculty.hitsz.edu.cn/louyunjiang?lang=en) ([Google Scholar](https://scholar.google.com/citations?user=8Ulrn3cAAAAJ))  
--   Team: **Hao Luan**, Fangcheng Zhu 
-
-
-### Line Patrolling Robot
-
--   Advisor: Prof. [Haoyao Chen](http://nrs-lab.com/people/) 
--   Team: **Hao Luan**, Fangcheng Zhu 
-
-
-### Stable Controller Design for Inverted Pendulum 
-
--   Advisor: Prof. [Ai-Guo Wu](https://ieeexplore.ieee.org/author/38182430000) 
-
-
-### Stable Controller Design for the Magnetic Levitation 
-
--   Advisor: Prof. Ai-Guo Wu 
+(Team members above are listed alphabetically by last names)
 
 
-## Selected Adwards
+
+
+
+## Selected Awards
 
 -   Honorable Mention in [MCM](https://www.comap.com/undergraduate/contests/) 
 -   Undergraduate Academic Merit Scholarship at HITSZ, 3 times 
@@ -79,9 +79,17 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 -   Honor Roll in the [AMC12](https://www.maa.org/math-competitions/american-mathematics-contest-12-amc-12), invited to [AIME](https://www.maa.org/math-competitions/american-invitational-mathematics-examination-aime) 
 
 
+
+
+
+
 ## Computer Literacy
 -   Programming: C/C++, [Julia](https://julialang.org/), Pascal, Python 
--   Others: Git, LaTeX, Markdown, MATLAB, Wolfram Mathematica, ROS 
+-   Others: Git, $\LaTeX$, Markdown, MATLAB, Wolfram Mathematica, ROS 
+
+
+
+
 
 
 ## Extracurricular Activities
@@ -89,7 +97,9 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 -   Volunteer services
 
 
+
 <!--
+
 Publications
 ======
   <ul>{% for post in site.publications %}

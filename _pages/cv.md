@@ -11,7 +11,7 @@ redirect_from:
 
 See a detailed version (PDF) [here](https://edmundluan.github.io/files/CV_HaoLuan.pdf). 
 
-
+<br/>
 
 ## Education
 
@@ -28,21 +28,22 @@ See a detailed version (PDF) [here](https://edmundluan.github.io/files/CV_HaoLua
 - General High School Diploma, Sep. 2014 ~ Jun. 2017 
 
 
-
+<br/>
+<br/>
 
 ## Related Coursework
 
-- Click [here](#Selected Relevant Coursework) to see a detailed list. 
+- Click [here](#selected-relevant-coursework) to see a detailed list. 
 
 
-
+<br/>
 
 ## Experience
 
 * Undergraduate Research Assistant, MAS Lab @ [**Harbin Institute of Technology, Shenzhen**](http://www.hitsz.edu.cn/index.html), Oct. 2019 ~ Present 
 * Visiting Research Student, Robotic Laboratory @ [**Sun Yat-sen University**](http://sysu.edu.cn/en/index.htm), Nov. 2015 ~ May 2016 
 
-
+<br/><br/>
 
 ## Selected Projects
 
@@ -75,9 +76,7 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 
 (Team members above are listed alphabetically by last names)
 
-
-
-
+<br/><br/>
 
 ## Selected Awards
 
@@ -86,19 +85,13 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 -   Third Prize in the [NOIP](http://www.noi.cn/) (National Olympiad in Informatics in Provinces) 
 -   Honor Roll in the [AMC12](https://www.maa.org/math-competitions/american-mathematics-contest-12-amc-12), invited to [AIME](https://www.maa.org/math-competitions/american-invitational-mathematics-examination-aime) 
 
-
-
-
-
+<br/><br/>
 
 ## Computer Literacy
 -   Programming: C/C++, [Julia](https://julialang.org/), Pascal, Python 
 -   Others: Git, $\LaTeX$, Markdown, MATLAB, Wolfram Mathematica, ROS 
 
-
-
-
-
+<br/><br/>
 
 ## Extracurricular Activities
 -   Soccer player on the HITSZ Student Soccer Team 
@@ -106,54 +99,55 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 
 
 
-
-
+<br/>
+<br/>
+<br/>
 
 ---
 ## Selected Relevant Coursework
 
-- Controls
-  - Automatic Control Theory I, II 
-    - Classical controls: transfer function, stability, Nyquist criterion, root locus method, frequency correction, pole placement, etc. 
-    - Modern controls: state-space model, controllability & observability, canonical decomposition, state/output feedback, Lyapunov's methods, etc. 
-  - Automatic Control Practice I, II 
-    - Controller design: input analysis, sensitivity, Anti-Windup, servo systems, regulating systems, multi-loop systems, etc. 
-  - Process Control System
-  - *Nonlinear and Adaptive Control*\*
-    - \**Sitting in*. 
+### Controls
+- Automatic Control Theory I, II 
+  - Classical controls: transfer function, stability, Nyquist criterion, root locus method, frequency correction, pole placement, etc. 
+  - Modern controls: state-space model, controllability & observability, canonical decomposition, state/output feedback, Lyapunov's methods, etc. 
+- Automatic Control Practice I, II 
+  - Controller design: input analysis, sensitivity, Anti-Windup, servo systems, regulating systems, multi-loop systems, etc. 
+- Process Control System
+- *Nonlinear and Adaptive Control*\*
+  - \**Sitting in*. 
 
-- Robotics
-  - Introduction to Robotics 
-  - Digital Image Processing 
-  - Design and Practice of Robotic System 
-  - Theoretical Mechanics 
+### Robotics
+- Introduction to Robotics 
+- Digital Image Processing 
+- Design and Practice of Robotic System 
+- Theoretical Mechanics 
 
-- Mathematics
-  - Mathematical Analysis III 
-  - Advanced Mathematics (Calculus) I, II 
-  - Linear Algebra and Analytical Geometry 
-  - Probability Theory and Mathematical Statistics 
-  - Functions of Complex Variables and Integral Transforms 
-  - Mathematical Programming (Optimization) 
+### Mathematics
+- Mathematical Analysis III 
+- Advanced Mathematics (Calculus) I, II 
+- Linear Algebra and Analytical Geometry 
+- Probability Theory and Mathematical Statistics 
+- Functions of Complex Variables and Integral Transforms 
+- Mathematical Programming (Optimization) 
 
-- Computer Science 
-  - Introduction to Machine Learning 
-  - Data Structure and Algorithm 
-  - Advanced Computer Language Programming 
-  - C Programming Language 
+### Computer Science 
+- Introduction to Machine Learning 
+- Data Structure and Algorithm 
+- Advanced Computer Language Programming 
+- C Programming Language 
 
 
-- Electronics
-  - Electric Circuit I, II
-  - Fundamentals of Analog Electronics
-  - Digital Electronic Technology Foundation 
+### Electronics
+- Electric Circuit I, II
+- Fundamentals of Analog Electronics
+- Digital Electronic Technology Foundation 
 
-- Others
-  - Signal Analysis and Processing (Signal and System) 
-  - System Modeling and Simulation 
-  - Fundamentals of Machine Design 
-  - Introduction to Cloud Computing 
-  - Technology and Application of Big Data  
+### Others
+- Signal Analysis and Processing (Signal and System) 
+- System Modeling and Simulation 
+- Fundamentals of Machine Design 
+- Introduction to Cloud Computing 
+- Technology and Application of Big Data  
 
 
 

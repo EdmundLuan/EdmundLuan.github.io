@@ -8,17 +8,22 @@ author_profile: true
 {% include base_path %}
 
 
+<br/>
+
 ## Distributed Consensus of Constrained MAS under Directed Graphs (Ongoing)
 
 -   Advisor: Prof. [Jie Mei](http://faculty.hitsz.edu.cn/meijie) ([Google Scholar](https://scholar.google.com/citations?user=tyQm5IkAAAAJ)) 
 
-<img src="../images/1ord_basic.png" scale="60%">
+<img src="../images/1ord_basic.png" scale="70%" align="center"> 
 
 -   Description: 
     -   Consensus of multi-agent systems(MAS) has wide applications. Many consensus control algorithms have been proposed. However, state-of-the-art algorithms do not work well in realistic conditions. On one hand, MAS in real-life situations have various constraints, e.g. kinematic constraints, actuator saturation, safety concerns, etc., along with parameter uncertainties and disturbances. On the other hand, most algorithms assume that any point in the state spaces of agents is legit and therefore they do not have guarantees on not breaking the predesignated constraints. 
     -   In this project, we investigate **distributed** consensus control algorithms for MAS with **time-varying state constraints**, parameter uncertainties and external disturbances. We hope to extend applications of MAS into realistic scenarios involving the above conditions. 
     -   Theoretical proof, numerical simulation and possibly physical experiments will be presented. Stay tuned. 
 
+
+<br/>
+<br/>
 
 ---
 ## Vision-Based Auto Parking
@@ -28,7 +33,10 @@ author_profile: true
 -   Identified a specific parking sign by adopting filtering, color segmentation, perspective transformation, Canny edge detection and rectangle envelope. 
 -   Designed an online closed-loop controller to control angular and linear velocities of an autonomous car, by employing multiple control schemes and using image information of the detected parking sign. 
 -   Integrated searching, detection, and motion control on ROS and successfully realized fully automated parking.
+<video src="../videos/AutoPark.mp4" width="560" height="315" align="center" controls autoplay loop ></video>
 
+<br/>
+<br/>
 
 ---
 ## Six-Arm Robot Palletizing 
@@ -38,25 +46,32 @@ author_profile: true
 -   Designed robot manipulator control algorithms using forward and inverse kinematics and LFPB trajectory planning. Built position management system to add, store, modify and delete position information of objects. 
 -   Achieved fast palletizing motions with high accuracy.
 
-<video src="https://youtu.be/WScgMeEDBrM" width="800" height="600" controls autoplay loop></video>
 <!--
-<video src="../videos/Palletize.mp4" width="800" height="600" controls autoplay loop></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WScgMeEDBrM?loop=1&autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;loop" allowfullscreen></iframe>
 --->
+<video src="../videos/Palletize.mp4" width="560" height="315" controls autoplay loop align="center"></video>
+
 (Due to regulations of the laboratory, we were only allowed to operate the machine with 25% of its max speed, so this video is played with 4X fast forward.)
 
+
+<br/>
+<br/>
 
 ---
 ## Line Patrolling Robot
 
 -   Advisor: Prof. Haoyao Chen
--   Team: Jiahao Fang, **Hao Luan**, Weijie Wu. 
+-   Team: **Hao Luan**, Fangcheng Zhu. 
 -   Designed and 3D-printed structural parts, built electric circuits connecting basic modules including H bridges and DC motors, and used Arduino microcontroller to realize feedback control of the speed of DC motors with encoders.
 -   Designed a hybrid PID control algorithm based on the infrared sensors to control the robot tracking the desired black line.
 -   Integrated the hardware system, tested the robot and the algorithm in a complex map, and finished the task in 30s.
 
+<video src="../videos/line.mp4" width="560" height="315" align="center" controls autoplay loop ></video>
 
-<video src="../videos/line.mp4" width="800" height="600"  controls autoplay loop></video>
 (This video is only a test, not the final version of our robot.)
+
+<br/>
+<br/>
 
 
 ---
@@ -67,9 +82,10 @@ author_profile: true
 -   Designed a controller via second-, third-, and fourth-order state feedback respectively using poles placement techniques. 
 -   Designed a controller via output feedback using the root locus method. 
 
-<video src="../videos/InvertedPendulum.mp4" width="800" height="600" controls autoplay loop></video>
+<video src="../videos/InvertedPendulum.mp4" width="560" height="315" controls autoplay loop align="center"></video>
 
-
+<br/>
+<br/>
 
 ---
 ## Stable Controller Design for the Magnetic Levitation 
@@ -78,8 +94,9 @@ author_profile: true
 -   Modeled the magnetic levitation system and obtained its linearized plant model in transfer function. 
 -   Designed a feedback controller using the root locus method. 
 
+<br/>
+<br/>
 
-  
 ---
 ## Centralized Multi-Robot Task Allocation
 

@@ -17,15 +17,23 @@ See a detailed version (PDF) [here](https://edmundluan.github.io/files/CV_HaoLua
 
 ### Harbin Institute of Technology, Shenzhen
 
-
 - B.E. in Automation (Control Science and Engineering), Aug. 2017 ~ Jul. 2021 (expected) 
 
+    - CGPA: 3.793/4
     - Undergraduate Academic Merit Scholarship winner. 
+
 
 ### Guangdong Experimental High School
 
-
 - General High School Diploma, Sep. 2014 ~ Jun. 2017 
+
+
+
+
+## Related Coursework
+
+- Click [here](#Selected Relevant Coursework) to see a detailed list. 
+
 
 
 
@@ -40,7 +48,7 @@ See a detailed version (PDF) [here](https://edmundluan.github.io/files/CV_HaoLua
 
 Details are provided in the [Projects](https://edmundluan.github.io/projects/) page. 
 
--   <u>**Distributed Consensus of Constrained MAS under Directed Graphs (Ongoing)**</u>
+-   **Distributed Consensus of Constrained MAS under Directed Graphs (Ongoing)**
     -   Advisor: Prof. [Jie Mei](http://faculty.hitsz.edu.cn/meijie) ([Google Scholar](https://scholar.google.com/citations?user=tyQm5IkAAAAJ)) 
 
 -   Vision-Based Auto Parking
@@ -61,8 +69,8 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 -   Stable Controller Design for the Magnetic Levitation
     -   Advisor: Prof. Ai-Guo Wu 
 
--   Centralized Multi-Robot Task Allocation (at SYSU) 
-    -   Advisor: Prof. [Hui Cheng](http://sdcs.sysu.edu.cn/content/2504)  
+-   Centralized Multi-Robot Task Allocation
+    -   Advisor: Prof. [Hui Cheng](http://sdcs.sysu.edu.cn/content/2504) (at SYSU) 
     -   Team: **Hao Luan**, Yanheng Wang, Zihao Zeng  
 
 (Team members above are listed alphabetically by last names)
@@ -73,8 +81,8 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 
 ## Selected Awards
 
+-   Undergraduate Academic Merit Scholarship at HITSZ, 3 times in 3 years 
 -   Honorable Mention in [MCM](https://www.comap.com/undergraduate/contests/) 
--   Undergraduate Academic Merit Scholarship at HITSZ, 3 times 
 -   Third Prize in the [NOIP](http://www.noi.cn/) (National Olympiad in Informatics in Provinces) 
 -   Honor Roll in the [AMC12](https://www.maa.org/math-competitions/american-mathematics-contest-12-amc-12), invited to [AIME](https://www.maa.org/math-competitions/american-invitational-mathematics-examination-aime) 
 
@@ -95,6 +103,57 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 ## Extracurricular Activities
 -   Soccer player on the HITSZ Student Soccer Team 
 -   Volunteer services
+
+
+
+
+
+
+---
+## Selected Relevant Coursework
+
+- Controls
+  - Automatic Control Theory I, II 
+    - Classical controls: transfer function, stability, Nyquist criterion, root locus method, frequency correction, pole placement, etc. 
+    - Modern controls: state-space model, controllability & observability, canonical decomposition, state/output feedback, Lyapunov's methods, etc. 
+  - Automatic Control Practice I, II 
+    - Controller design: input analysis, sensitivity, Anti-Windup, servo systems, regulating systems, multi-loop systems, etc. 
+  - Process Control System
+  - *Nonlinear and Adaptive Control*\*
+    - \**Sitting in*. 
+
+- Robotics
+  - Introduction to Robotics 
+  - Digital Image Processing 
+  - Design and Practice of Robotic System 
+  - Theoretical Mechanics 
+
+- Mathematics
+  - Mathematical Analysis III 
+  - Advanced Mathematics (Calculus) I, II 
+  - Linear Algebra and Analytical Geometry 
+  - Probability Theory and Mathematical Statistics 
+  - Functions of Complex Variables and Integral Transforms 
+  - Mathematical Programming (Optimization) 
+
+- Computer Science 
+  - Introduction to Machine Learning 
+  - Data Structure and Algorithm 
+  - Advanced Computer Language Programming 
+  - C Programming Language 
+
+
+- Electronics
+  - Electric Circuit I, II
+  - Fundamentals of Analog Electronics
+  - Digital Electronic Technology Foundation 
+
+- Others
+  - Signal Analysis and Processing (Signal and System) 
+  - System Modeling and Simulation 
+  - Fundamentals of Machine Design 
+  - Introduction to Cloud Computing 
+  - Technology and Application of Big Data  
 
 
 

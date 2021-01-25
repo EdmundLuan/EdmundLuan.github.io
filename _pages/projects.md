@@ -20,7 +20,7 @@ author_profile: true
     -   Theoretical proof, numerical simulation and possibly physical experiments will be presented. Stay tuned. 
 
 
-
+---
 ## Vision-Based Auto Parking
 
 -   Advisor: Prof. [Haoyao Chen](http://nrs-lab.com/people/) 
@@ -30,7 +30,7 @@ author_profile: true
 -   Integrated searching, detection, and motion control on ROS and successfully realized fully automated parking.
 
 
-
+---
 ## Six-Arm Robot Palletizing 
 
 -   Advisor: Prof. [Yunjiang Lou](http://faculty.hitsz.edu.cn/louyunjiang?lang=en) ([Google Scholar](https://scholar.google.com/citations?user=8Ulrn3cAAAAJ))  
@@ -38,11 +38,14 @@ author_profile: true
 -   Designed robot manipulator control algorithms using forward and inverse kinematics and LFPB trajectory planning. Built position management system to add, store, modify and delete position information of objects. 
 -   Achieved fast palletizing motions with high accuracy.
 
+<video src="https://youtu.be/WScgMeEDBrM" width="800" height="600" controls autoplay loop></video>
+<!--
 <video src="../videos/Palletize.mp4" width="800" height="600" controls autoplay loop></video>
-
+--->
 (Due to regulations of the laboratory, we were only allowed to operate the machine with 25% of its max speed, so this video is played with 4X fast forward.)
 
 
+---
 ## Line Patrolling Robot
 
 -   Advisor: Prof. Haoyao Chen
@@ -53,10 +56,10 @@ author_profile: true
 
 
 <video src="../videos/line.mp4" width="800" height="600"  controls autoplay loop></video>
-
 (This video is only a test, not the final version of our robot.)
 
 
+---
 ## Stable Controller Design for Inverted Pendulum 
 
 -   Advisor: Prof. [Ai-Guo Wu](https://ieeexplore.ieee.org/author/38182430000) 
@@ -68,9 +71,20 @@ author_profile: true
 
 
 
+---
 ## Stable Controller Design for the Magnetic Levitation 
 
 -   Advisor: Prof. Ai-Guo Wu 
 -   Modeled the magnetic levitation system and obtained its linearized plant model in transfer function. 
 -   Designed a feedback controller using the root locus method. 
+
+
+  
+---
+## Centralized Multi-Robot Task Allocation
+
+-   Advisor: Prof. [Hui Cheng](https://www.usilab.cn/team/chenghui/) @ SYSU 
+-   Team: **Hao Luan**, Yanheng Wang, Zihao Zeng. 
+-   Designed and implemented a centralized offline task-allocation algorithm for multi-robot systems based on the Ant Colony System. 
+-   Compared with a conventional optimal DFS algorithm, simulation showed time-consuming ratios down to 1/2400 and relative errors below 10% in dense directed graphs consisting of up to 20 vertices. 
 

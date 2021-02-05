@@ -14,13 +14,22 @@ author_profile: true
 
 -   Advisor: Prof. [Jie Mei](http://faculty.hitsz.edu.cn/meijie) ([Google Scholar](https://scholar.google.com/citations?user=tyQm5IkAAAAJ)) 
 
-<img src="../images/1ord_basic.png" scale="70%" align="center"> 
+<img src="../images/1ord_basic.png" scale="60%" align="center"> 
 
 -   Description: 
     -   Consensus of multi-agent systems(MAS) has wide applications. Many consensus control algorithms have been proposed. However, state-of-the-art algorithms do not work well in realistic conditions. On one hand, MAS in real-life situations have various constraints, e.g. kinematic constraints, actuator saturation, safety concerns, etc., along with parameter uncertainties and disturbances. On the other hand, most algorithms assume that any point in the state spaces of agents is legit and therefore they do not have guarantees on not breaking the predesignated constraints. 
     -   In this project, we investigate **distributed** consensus control algorithms for MAS with **time-varying state constraints**, parameter uncertainties and external disturbances. We hope to extend applications of MAS into realistic scenarios involving the above conditions. 
-    -   Theoretical proof, numerical simulation and possibly physical experiments will be presented. Stay tuned. 
+    -   Theoretical proof, numerical simulation and possibly physical experiments will be presented. 
 
+<br/>
+
+-   Progress: 
+
+    -   With the presence of bounded disturbances, parametric uncertainties, and **time-varying constraints on agents' positions**, consensus control algorithms for MAS consisting of agents governed by first- or second-order dynamics have been proposed and verified. 
+
+    <img src="../images/2ord.png" scale="80%" align="center">
+
+(Consensus of 4 double integrators under switching directed topologies)
 
 <br/>
 <br/>

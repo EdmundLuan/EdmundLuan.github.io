@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Constrained Consensus"
-permalink: /constrainedCon/
+permalink: /constrainedcon/
 author_profile: false
 ---
 

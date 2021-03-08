@@ -18,7 +18,7 @@ author_profile: true
 
 -   Aim to provide a distributed leaderless consensus algorithm framework for a type of continuous-time linear multi-agent systems with time-varying asymmetric state constraints, uncertainties, and disturbances under time-varying directed topologies. 
 -   Theoretical proof, numerical simulation and possibly physical experiments will be presented. 
--   Details are available [here](https://edmundluan.github.io/constrainedCon/). 
+-   Details are available [here](https://edmundluan.github.io/constrainedcon/). 
 
 <br/>
 <br/>

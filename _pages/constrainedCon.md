@@ -23,7 +23,7 @@ author_profile: false
 <br/>
 <br/>
 
-## Progress: 
+## Progress:
 
 -   We have proposed a distributed leaderless consensus algorithm framework for a type of continuous-time linear multi-agent systems with time-varying asymmetric state constraints, uncertainties, and disturbances under time-varying directed topologies. 
 -   In the presence of bounded disturbances, continuous uncertainties in agents' models, and **time-varying constraints on agents' positions**, consensus control algorithms under our framework for MAS consisting of agents governed by first- or second-order dynamics have been proposed and validated theoretically and numerically.  

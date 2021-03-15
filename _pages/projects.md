@@ -12,13 +12,15 @@ author_profile: true
 
 ## Distributed Consensus of Constrained MAS under Directed Graphs (Ongoing)
 
+<img src="../images/robotariumSim.gif" scale="120%" align="center">
+
+(Simulation results powered by [Robotarium](https://www.robotarium.gatech.edu/) )
+
 -   Advisor: Prof. [Jie Mei](http://faculty.hitsz.edu.cn/meijie) ([Google Scholar](https://scholar.google.com/citations?user=tyQm5IkAAAAJ)) 
 
-<img src="../images/1ord_basic.png" scale="60%" align="center"> 
-
--   Aim to provide a distributed leaderless consensus algorithm framework for a type of continuous-time linear multi-agent systems with time-varying asymmetric state constraints, uncertainties, and disturbances under time-varying directed topologies. 
+-   Aim to provide a **distributed leaderless consensus** algorithm framework for a type of continuous-time linear multi-agent systems with **time-varying asymmetric state constraints**, uncertainties, and disturbances under time-varying directed topologies. 
 -   Theoretical proof, numerical simulation and possibly physical experiments will be presented. 
--   Details are available [here](https://edmundluan.github.io/constrainedcon/). 
+-   Please click [here](https://edmundluan.github.io/constrainedcon/) for details. 
 
 <br/>
 <br/>

@@ -35,11 +35,29 @@ author_profile: false
 <br/>
 <br/>
 
--   Simulations powered by [Robotarium](https://www.robotarium.gatech.edu/)[^1] have shown the effectiveness of our algorithms. See Fig. 3.  
+-   Simulations powered by [the Robotarium](https://www.robotarium.gatech.edu/)[^1] have shown the effectiveness of our algorithms. See Fig. 3.  
 
 <img src="../images/6_simResults_03151152.gif" scale="120%" align="center">
 
 (Fig. 3: Six robots rendezvous under switching directed topologies subject to time-varying constraints) 
+
+<br/>
+
+
+
+- A demo video of running distributed consensus algorithms under CMAERAS framework on physical robots (powered by the Roboratium). 
+
+<iframe width="800" height="600" src="https://www.youtube.com/embed/VakMkkff5s0?&autoplay=1&loop=1&playlist=VakMkkff5s0" title="CAMERAS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;loop" allowfullscreen></iframe>
+
+(YouTube)
+
+</br>
+
+
+
+<iframe height="600" width="800" src="//player.bilibili.com/player.html?aid=887621553&bvid=BV1MK4y1P7vd&cid=322449230&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+(bilibili link for friends inside the GFW)
 
 <br/>
 <br/>

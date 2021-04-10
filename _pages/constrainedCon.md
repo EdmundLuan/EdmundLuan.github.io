@@ -49,9 +49,11 @@ author_profile: false
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/VakMkkff5s0?&autoplay=1&loop=1&playlist=VakMkkff5s0" title="CAMERAS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;loop" allowfullscreen></iframe>
 
-(YouTube)
+(YouTube link)
 
-</br>
+<br/>
+
+<br/>
 
 
 
@@ -65,7 +67,13 @@ author_profile: false
 
 -   **More details will be disclosed in our paper**. Stay tuned. 
 
+
+
 <br/>
+
+<br/>
+
+
 
 [^1]: Pickem, Daniel, et al. "The robotarium: A remotely accessible swarm robotics research testbed." *2017 IEEE International Conference on Robotics and Automation (ICRA)*. IEEE, 2017. Available at [*https://ieeexplore.ieee.org/abstract/document/7989200*
 

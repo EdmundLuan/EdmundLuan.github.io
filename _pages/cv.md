@@ -19,7 +19,7 @@ See a detailed version (PDF) [here](https://edmundluan.github.io/files/CV_HaoLua
 
 - B.E. in Automation (Control Science and Engineering), Aug. 2017 ~ Jul. 2021 (expected) 
 
-    - CGPA: 3.793/4
+    - CGPA: 3.79/4
     - Undergraduate Academic Merit Scholarship winner. 
 
 
@@ -43,7 +43,14 @@ See a detailed version (PDF) [here](https://edmundluan.github.io/files/CV_HaoLua
 * Undergraduate Research Assistant, MAS Lab @ [**Harbin Institute of Technology, Shenzhen**](http://www.hitsz.edu.cn/index.html), Oct. 2019 ~ Present 
 * Visiting Research Student, Robotic Laboratory @ [**Sun Yat-sen University**](http://sysu.edu.cn/en/index.htm), Nov. 2015 ~ May 2016 
 
-<br/><br/>
+<br/>
+
+## Publications
+    <ul>{% for post in site.publications %}
+        {% include archive-single-cv.html %}
+    {% endfor %}</ul>
+<br/>
+
 
 ## Selected Projects
 

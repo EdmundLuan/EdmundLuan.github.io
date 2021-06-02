@@ -10,15 +10,23 @@ redirect_from:
 
 Hi! Welcome to my personal pages!
 
-My name is Hao Luan (栾昊). I am currently an undergraduate student (expected to graduate in 2021) majoring in Automation at Harbin Institute of Technology. From 2019, I joined the MAS Lab led by Prof. Jie Mei at the School of Mechanical Engineering and Automation. My research interest mainly lies in the planning and control of multi-agent/robot systems (MAS/MRS). 
+My name is Hao Luan (栾昊). I am currently an undergraduate student (expected to graduate in 2021) majoring in Automation at Harbin Institute of Technology. I joined the MAS Lab led by Prof. Jie Mei at the School of Mechanical Engineering and Automation in 2019. My research interest mainly lies in the planning and control of multi-agent/robot systems (MAS/MRS). 
 
 
 
 
 
-Many pages of the site are still under construction. For now, feel free to visit the [CV page](https://edmundluan.github.io/cv) and have a look at my [projects](https://edmundluan.github.io/projects).  
+The site is still under construction. For now, feel free to visit the [Bio page](https://edmundluan.github.io/cv) or have a look at my [research and projects](https://edmundluan.github.io/projects).  
 
+<br/>
 
+<br/>
+
+## News
+
+-   [May 29, 2021] **Paper submitted** ! 
+    -   **H. Luan**, J. Mei, H. Yu, and G. Ma, "Distributed constrained consensus of multi-agent systems with uncertainties and disturbances under switching directed graphs", *IEEE Transactions on Neural Networks and Learning Systems (submitted)*, 2021. [Abstract](https://edmundluan.github.io/files/abstr-Luan_distributed_2021_TNNLS.pdf).
+    -   More details about this research [here](https://edmundluan.github.io/constrainedcon). 
 
 
 

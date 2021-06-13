@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Bio"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-See a detailed version (PDF) [here](https://edmundluan.github.io/files/CV_HaoLuan.pdf). 
+See a PDF version of my CV [here](https://edmundluan.github.io/files/CV_HaoLuan.pdf). [updated on Jun.1, 2021]
 
 <br/>
 
@@ -46,10 +46,23 @@ See a detailed version (PDF) [here](https://edmundluan.github.io/files/CV_HaoLua
 <br/>
 
 ## Publications
-    <ul>{% for post in site.publications %}
+
+### Journals
+
+    {% for post in site.publications %}
         {% include archive-single-cv.html %}
-    {% endfor %}</ul>
+    {% endfor %}
+
 <br/>
+
+## Selected Awards
+
+-   Undergraduate Academic Merit Scholarship at HITSZ, 3 times in 3 years 
+-   Honorable Mention in [MCM](https://www.comap.com/undergraduate/contests/) 
+-   Third Prize in the [NOIP](http://www.noi.cn/) (National Olympiad in Informatics in Provinces) 
+-   Honor Roll in the [AMC12](https://www.maa.org/math-competitions/american-mathematics-contest-12-amc-12), invited to [AIME](https://www.maa.org/math-competitions/american-invitational-mathematics-examination-aime) 
+
+<br/><br/>
 
 
 ## Selected Projects
@@ -85,14 +98,7 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 
 <br/><br/>
 
-## Selected Awards
 
--   Undergraduate Academic Merit Scholarship at HITSZ, 3 times in 3 years 
--   Honorable Mention in [MCM](https://www.comap.com/undergraduate/contests/) 
--   Third Prize in the [NOIP](http://www.noi.cn/) (National Olympiad in Informatics in Provinces) 
--   Honor Roll in the [AMC12](https://www.maa.org/math-competitions/american-mathematics-contest-12-amc-12), invited to [AIME](https://www.maa.org/math-competitions/american-invitational-mathematics-examination-aime) 
-
-<br/><br/>
 
 ## Computer Literacy
 -   Programming: C/C++, [Julia](https://julialang.org/), Pascal, Python 

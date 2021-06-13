@@ -24,9 +24,18 @@ The site is still under construction. For now, feel free to visit the [Bio page]
 
 ## News
 
+-   [Jun. 9, 2021] Successfully defended my Bachelor's thesis!
 -   [May 29, 2021] **Paper submitted** ! 
-    -   **H. Luan**, J. Mei, H. Yu, and G. Ma, "Distributed constrained consensus of multi-agent systems with uncertainties and disturbances under switching directed graphs", *IEEE Transactions on Neural Networks and Learning Systems (submitted)*, 2021. [Abstract](https://edmundluan.github.io/files/abstr-Luan_distributed_2021_TNNLS.pdf).
+    -   **H. Luan**, J. Mei, H. Yu, and G. Ma, "Distributed constrained consensus of multi-agent systems with uncertainties and disturbances under switching directed graphs", *IEEE Transactions on Neural Networks and Learning Systems* (submitted), 2021. [Abstract](https://edmundluan.github.io/files/abstr-Luan_distributed_2021_TNNLS.pdf).
     -   More details about this research [here](https://edmundluan.github.io/constrainedcon). 
+
+<br/>
+
+<br/>
+
+## Contact
+
+luanhao[at]stu[dot]hit[dot]edu[dot]cn
 
 
 

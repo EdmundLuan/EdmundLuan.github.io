@@ -9,24 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-See a PDF version of my CV [here](https://edmundluan.github.io/files/CV_HaoLuan.pdf). [updated on Jun.1, 2021]
+See a PDF version of my CV [here](https://edmundluan.github.io/files/CV_HaoLuan.pdf). [updated on Jun. 24, 2021]
 
 <br/>
 
 ## Education
 
-### Harbin Institute of Technology, Shenzhen
+### Harbin Institute of Technology, Shenzhen (HITSZ)
 
-- B.E. in Automation (Control Science and Engineering), Aug. 2017 ~ Jul. 2021 (expected) 
+- B.Eng. in Automation (Control Science & Engineering), Aug. 2017 ~ Jun. 2021 
 
-    - CGPA: 3.79/4
-    - Undergraduate Academic Merit Scholarship winner. 
-
+    - CGPA: 3.8/4
+    - Undergraduate Academic Merit Scholarship winner 
 
 ### Guangdong Experimental High School
 
 - General High School Diploma, Sep. 2014 ~ Jun. 2017 
-
 
 <br/>
 <br/>
@@ -40,7 +38,7 @@ See a PDF version of my CV [here](https://edmundluan.github.io/files/CV_HaoLuan.
 
 ## Experience
 
-* Undergraduate Research Assistant, MAS Lab @ [**Harbin Institute of Technology, Shenzhen**](http://www.hitsz.edu.cn/index.html), Oct. 2019 ~ Present 
+* Undergraduate Research Assistant, MAS Lab @ [**Harbin Institute of Technology, Shenzhen**](http://www.hitsz.edu.cn/index.html), Oct. 2019 ~ Jun. 2021 
 * Visiting Research Student, Robotic Laboratory @ [**Sun Yat-sen University**](http://sysu.edu.cn/en/index.htm), Nov. 2015 ~ May 2016 
 
 <br/>
@@ -57,10 +55,12 @@ See a PDF version of my CV [here](https://edmundluan.github.io/files/CV_HaoLuan.
 
 ## Selected Awards
 
--   Undergraduate Academic Merit Scholarship at HITSZ, 3 times in 3 years 
--   Honorable Mention in [MCM](https://www.comap.com/undergraduate/contests/) 
--   Third Prize in the [NOIP](http://www.noi.cn/) (National Olympiad in Informatics in Provinces) 
--   Honor Roll in the [AMC12](https://www.maa.org/math-competitions/american-mathematics-contest-12-amc-12), invited to [AIME](https://www.maa.org/math-competitions/american-invitational-mathematics-examination-aime) 
+-   Outstanding Bachelor's Thesis Award at HITSZ, 2021. 
+
+-   Undergraduate Academic Merit Scholarship at HITSZ, 3 times in 3 years, 2018~2020.
+-   Honorable Mention in [MCM](https://www.comap.com/undergraduate/contests/), 2020.
+-   Third Prize in the [NOIP](http://www.noi.cn/) (National Olympiad in Informatics in Provinces), 2016.
+-   Honor Roll in the [AMC12](https://www.maa.org/math-competitions/american-mathematics-contest-12-amc-12), invited to [AIME](https://www.maa.org/math-competitions/american-invitational-mathematics-examination-aime), 2016.
 
 <br/><br/>
 
@@ -127,7 +127,7 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
   - Controller design: input analysis, sensitivity, Anti-Windup, servo systems, regulating systems, multi-loop systems, etc. 
 - Process Control System
 - *Nonlinear and Adaptive Control*\*
-  - \**Sitting in*. 
+  - \**Audited*: lectures, assignments, discussions. 
 
 ### Robotics
 - Introduction to Robotics 

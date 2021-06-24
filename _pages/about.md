@@ -10,13 +10,13 @@ redirect_from:
 
 Hi! Welcome to my personal pages!
 
-My name is Hao Luan (栾昊). I am currently an undergraduate student (expected to graduate in 2021) majoring in Automation at Harbin Institute of Technology. I joined the MAS Lab led by Prof. Jie Mei at the School of Mechanical Engineering and Automation in 2019. My research interest mainly lies in the planning and control of multi-agent/robot systems (MAS/MRS). 
+My name is Hao Luan (栾昊). I am currently an undergraduate student (expected to graduate in June 2021) majoring in Automation (i.e. control science & engineering) at Harbin Institute of Technology. I joined the MAS Lab led by Prof. Jie Mei at the School of Mechanical Engineering and Automation in 2019. My research interests lie in the planning and control of robotic systems, with a particular interest in multi-agent/robot systems (MAS/MRS). 
 
 
 
 
 
-The site is still under construction. For now, feel free to visit the [Bio page](https://edmundluan.github.io/cv) or have a look at my [research and projects](https://edmundluan.github.io/projects).  
+Now, feel free to visit the [Bio page](https://edmundluan.github.io/cv) or have a look at my [research and projects](https://edmundluan.github.io/projects).  
 
 <br/>
 
@@ -24,9 +24,12 @@ The site is still under construction. For now, feel free to visit the [Bio page]
 
 ## News
 
+-   [Jun. 24, 2021] Won the **Outstanding Bachelor's Thesis Award** (top 4% ) ! 
+    -   My thesis was ranked 1st within the Automation major of class 2021 (1/70) 
+
 -   [Jun. 9, 2021] Successfully defended my Bachelor's thesis!
 -   [May 29, 2021] **Paper submitted** ! 
-    -   **H. Luan**, J. Mei, H. Yu, and G. Ma, "Distributed constrained consensus of multi-agent systems with uncertainties and disturbances under switching directed graphs", *IEEE Transactions on Neural Networks and Learning Systems* (submitted), 2021. [Abstract](https://edmundluan.github.io/files/abstr-Luan_distributed_2021_TNNLS.pdf).
+    -   **H. Luan**, J. Mei, H. Yu, and G. Ma, "Distributed constrained consensus of multi-agent systems with uncertainties and disturbances under switching directed graphs," *IEEE Transactions on Neural Networks and Learning Systems* (submitted), 2021. [Abstract](https://edmundluan.github.io/files/abstr-Luan_distributed_2021_TNNLS.pdf).
     -   More details about this research [here](https://edmundluan.github.io/constrainedcon). 
 
 <br/>
@@ -35,7 +38,7 @@ The site is still under construction. For now, feel free to visit the [Bio page]
 
 ## Contact
 
-luanhao[at]stu[dot]hit[dot]edu[dot]cn
+-   luanhao[at]stu[dot]hit[dot]edu[dot]cn
 
 
 

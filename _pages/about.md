@@ -10,7 +10,9 @@ redirect_from:
 
 Hi! Welcome to my personal pages!
 
-My name is Hao Luan (栾昊). I am currently an undergraduate student (expected to graduate in June 2021) majoring in Automation (i.e. control science & engineering) at Harbin Institute of Technology. I joined the MAS Lab led by Prof. Jie Mei at the School of Mechanical Engineering and Automation in 2019. My research interests lie in the planning and control of robotic systems, with a particular interest in multi-agent/robot systems (MAS/MRS). 
+My name is Hao Luan (栾昊). 
+I am currently a research assistant at the Southern University of Science and Technology (SUSTech), working in *Robotics Perception & Intelligence Lab (RPILab)* jointly led by Prof. [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/about.html) and Prof. [Hong Zhang](https://webdocs.cs.ualberta.ca/~zhang/index.html). 
+My research interests lie in planning and control of robotic systems, with a particular interest in multi-agent/robot systems (MAS/MRS).
 
 
 
@@ -24,7 +26,7 @@ Now, feel free to visit the [Bio page](https://edmundluan.github.io/cv) or have 
 
 ## News
 
--   [Jun. 24, 2021] Won the **Outstanding Bachelor's Thesis Award** (top 4% ) ! 
+-   [Jun. 24, 2021] Won the **Outstanding Bachelor's Thesis** (top 4% ) ! 
     -   My thesis was ranked 1st within the Automation major of class 2021 (1/70) 
 
 -   [Jun. 9, 2021] Successfully defended my Bachelor's thesis!
@@ -38,7 +40,8 @@ Now, feel free to visit the [Bio page](https://edmundluan.github.io/cv) or have 
 
 ## Contact
 
--   luanhao[at]stu[dot]hit[dot]edu[dot]cn
+-   luanh[AT]mail.sustech.edu.cn
+-   Rm. 423, South Bldg. College of Engineering, 1088 Xueyuan Blvd., Nanshan Dist., Shenzhen, China.
 
 
 

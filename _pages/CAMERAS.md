@@ -11,7 +11,7 @@ author_profile: false
 
 ## Description
 
--   Consensus of multi-agent systems (MASs) has wide applications. Many consensus control algorithms have been proposed. However, state-of-the-art algorithms do not work well in realistic conditions. On one hand, MASs in real-life situations are subject to various constraints, e.g. kinematic constraints, actuator saturation, safety concerns, etc., along with uncertainties and disturbances. On the other hand, most algorithms assume that any point in the state spaces of agents is legit and therefore they do not have guarantees on not breaking the predesignated constraints.
+-   Consensus of multi-agent systems (MASs) has wide applications and many consensus algorithms have been proposed. However, state-of-the-art algorithms do not work well in realistic conditions. On the one hand, MASs in real-life scenarios are subject to various constraints, e.g. kinematic constraints, actuator saturation, safety concerns, etc., along with uncertainties and disturbances. On the other hand, most algorithms assume that any point in the state spaces of agents is reachable and therefore they do not have guarantees on not breaking the predesignated constraints.
 
 <center>
 <img src="../images/1ord_basic.png" scale="50%" />
@@ -21,12 +21,12 @@ author_profile: false
 
 <br/>
 
--   In this project, we investigate **distributed consensus** control algorithms for MAS with **time-varying state constraints**, uncertainties and external disturbances. We hope to extend applications of MASs into realistic scenarios involving the above conditions.  
+-   In this project, we investigate **distributed consensus** control algorithms for MASs with **time-varying state constraints**, uncertainties and external disturbances. We hope to extend applications of MASs into realistic scenarios involving the above conditions.  
 
 <br/>
 <br/>
 
-## Progress:
+## Contribution
 
 -   We have proposed a distributed leaderless consensus framework for a class of continuous-time nonlinear MASs with time-varying asymmetric state constraints, uncertainties, and disturbances under time-varying directed topologies. 
 -   In the presence of bounded disturbances, continuous uncertainties in agents' models, and **time-varying constraints on agents' positions**, consensus control algorithms under the CAMERAS framework for MASs consisting of agents governed by first- or second-order dynamics have been put forward and validated theoretically and numerically.  
@@ -73,17 +73,18 @@ author_profile: false
 ## Related publications
 
 
--   **Details are disclosed in our paper**. For the time being, see an abstract [here](https://edmundluan.github.io/files/abstr-Luan_distributed_2021_TNNLS.pdf). 
+-   **Details are disclosed in our paper**. For the time being, please see an abstract [here](https://edmundluan.github.io/files/abstr-Luan_distributed_2021_TNNLS.pdf). 
 
 
 
 <br/>
 <br/>
 
-## Next: CAMERAS-PRO
+## Extension: CAMERAS-PRO
 
 -   On the basis of CAMERAS, we will work on constrained consensus with both time-varying state constraints and **prescribed performance**. 
--   We aim to tackle prescribed consensus performance under the a modified framework called ConstrAined ModEl Reference Adaptive conSensus with PrescRibed peRformance. 
+-   We aim to tackle prescribed consensus performance under a modified version of CAMERAS called **C**onstr**A**ined **M**od**E**l **R**eference **A**daptive con**S**ensus with **P**resc**R**ibed perf**O**rmance (*CAMERAS-PRO*). 
+-   More on this later, stay tuned.
 
 <br/>
 <br/>

@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-See a PDF version of my CV [here](https://edmundluan.github.io/files/CV_HaoLuan.pdf). [updated on Jun. 24, 2021]
+See a PDF version of my CV [here](https://edmundluan.github.io/files/CV_HaoLuan.pdf). [updated on Aug. 23, 2021]
 
 <br/>
 
@@ -19,7 +19,8 @@ See a PDF version of my CV [here](https://edmundluan.github.io/files/CV_HaoLuan.
 
 - B.Eng. in Automation (Control Science & Engineering), Aug. 2017 ~ Jun. 2021 
 
-    - CGPA: 3.8/4
+    - CGPA: 3.8/4 ;  90.1/100 
+    - Outstanding Bachelor's Thesis
     - Undergraduate Academic Merit Scholarship winner 
 
 ### Guangdong Experimental High School
@@ -38,8 +39,9 @@ See a PDF version of my CV [here](https://edmundluan.github.io/files/CV_HaoLuan.
 
 ## Experience
 
-* Undergraduate Research Assistant, MAS Lab @ [**Harbin Institute of Technology, Shenzhen**](http://www.hitsz.edu.cn/index.html), Oct. 2019 ~ Jun. 2021 
-* Visiting Research Student, Robotic Laboratory @ [**Sun Yat-sen University**](http://sysu.edu.cn/en/index.htm), Nov. 2015 ~ May 2016 
+* Research Assistant, *Robotics Perception & Intelligence Lab* @ [**Southern University of Science and Technology**](https://www.sustech.edu.cn/en/) , Aug. 2021 ~ Present 
+* Undergraduate Research Assistant, *MAS Lab* @ [**Harbin Institute of Technology, Shenzhen**](http://www.hitsz.edu.cn/index.html), Oct. 2019 ~ Jun. 2021 
+* Visiting Research Student, *Robotics Laboratory* @ [**Sun Yat-sen University**](http://sysu.edu.cn/en/index.htm), Nov. 2015 ~ May 2016 
 
 <br/>
 
@@ -55,7 +57,7 @@ See a PDF version of my CV [here](https://edmundluan.github.io/files/CV_HaoLuan.
 
 ## Selected Awards
 
--   Outstanding Bachelor's Thesis Award at HITSZ, 2021. 
+-   Outstanding Bachelor's Thesis at HITSZ (top 4%), 2021. 
 
 -   Undergraduate Academic Merit Scholarship at HITSZ, 3 times in 3 years, 2018~2020.
 -   Honorable Mention in [MCM](https://www.comap.com/undergraduate/contests/), 2020.
@@ -69,32 +71,32 @@ See a PDF version of my CV [here](https://edmundluan.github.io/files/CV_HaoLuan.
 
 Details are provided in the [Projects](https://edmundluan.github.io/projects/) page. 
 
--   **Distributed Consensus of Constrained MAS under Directed Graphs (Ongoing)**
-    -   Advisor: Prof. [Jie Mei](http://faculty.hitsz.edu.cn/meijie) ([Google Scholar](https://scholar.google.com/citations?user=tyQm5IkAAAAJ)) 
+-   **Distributed Consensus of Constrained MAS under Directed Graphs**
+    -   Advisor: Prof. [Jie Mei](http://faculty.hitsz.edu.cn/meijie) ([Google Scholar](https://scholar.google.com/citations?user=tyQm5IkAAAAJ)) , HIT Shenzhen
 
 -   Vision-Based Auto Parking
-    -   Advisor: Prof. [Haoyao Chen](http://nrs-lab.com/people/) 
+    -   Advisor: Prof. [Haoyao Chen](http://nrs-lab.com/people/) , HIT Shenzhen
     -   Team: Jiahao Fang, **Hao Luan**, Weijie Wu. 
 
 -   Six-Arm Robot Palletizing
-    -   Advisor: Prof. [Yunjiang Lou](http://faculty.hitsz.edu.cn/louyunjiang?lang=en) ([Google Scholar](https://scholar.google.com/citations?user=8Ulrn3cAAAAJ))  
+    -   Advisor: Prof. [Yunjiang Lou](http://faculty.hitsz.edu.cn/louyunjiang?lang=en) ([Google Scholar](https://scholar.google.com/citations?user=8Ulrn3cAAAAJ)) , HIT Shenzhen
     -   Team: **Hao Luan**, Fangcheng Zhu 
 
 -   Line Patrolling Robot
-    -   Advisor: Prof. [Haoyao Chen](http://nrs-lab.com/people/) 
+    -   Advisor: Prof. [Haoyao Chen](http://nrs-lab.com/people/) , HIT Shenzhen
     -   Team: **Hao Luan**, Fangcheng Zhu 
 
 -   Stable Controller Design for Inverted Pendulum
-    -   Advisor: Prof. [Ai-Guo Wu](https://ieeexplore.ieee.org/author/38182430000) 
+    -   Advisor: Prof. [Ai-Guo Wu](https://ieeexplore.ieee.org/author/38182430000) , HIT Shenzhen
 
 -   Stable Controller Design for the Magnetic Levitation
-    -   Advisor: Prof. Ai-Guo Wu 
+    -   Advisor: Prof. Ai-Guo Wu , HIT Shenzhen
 
 -   Centralized Multi-Robot Task Allocation
-    -   Advisor: Prof. [Hui Cheng](http://sdcs.sysu.edu.cn/content/2504) (at SYSU) 
+    -   Advisor: Prof. [Hui Cheng](http://sdcs.sysu.edu.cn/content/2504) , SYSU
     -   Team: **Hao Luan**, Yanheng Wang, Zihao Zeng  
 
-(Team members above are listed alphabetically by last names)
+<u>(Team members above are listed alphabetically by last names)</u> 
 
 <br/><br/>
 
@@ -107,6 +109,7 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 <br/><br/>
 
 ## Extracurricular Activities
+
 -   Soccer player on the HITSZ Student Soccer Team 
 -   Volunteer services
 
@@ -121,17 +124,26 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 
 ### Controls
 - Automatic Control Theory I, II 
-  - Classical controls: transfer function, stability, Nyquist criterion, root locus method, frequency correction, pole placement, etc. 
+  - Classical controls: transfer function, (asymptotic) stability, Routh-Hurwitz criterion, Nyquist criterion, root locus method, frequency correction, pole placement, etc. 
   - Modern controls: state-space model, controllability & observability, canonical decomposition, state/output feedback, Lyapunov's methods, etc. 
 - Automatic Control Practice I, II 
-  - Controller design: input analysis, sensitivity, Anti-Windup, servo systems, regulating systems, multi-loop systems, etc. 
+  - Controller design: input analysis, sensitivity, anti-windup design, servo systems, regulating systems, multi-loop systems, etc. 
 - Process Control System
-- *Nonlinear and Adaptive Control*\*
+- *Nonlinear and Adaptive Control* \*  (graduate level)
   - \**Audited*: lectures, assignments, discussions. 
 
 ### Robotics
+
 - Introduction to Robotics 
+    - Rigid body motion: rotational motion, rigid motion, velocity of rigid bodies, wrenches & reciprocal screws
+    - Kinematics: forward kinematics (product of exponentials, twists), inverse kinematics (P-K subproblems), manipulator Jocobians 
+    - Dynamics & control: Lagrange's equations, open-chain manipulators' dynamics, Lyapunov theory, position control & trajectory tracking 
 - Digital Image Processing 
+    - Enhancement & Restoration: point processing, filtering in spatial and frequency domain, noise models, etc.
+    - Morphological: erosion & dilation, opening & closing, other basic algorithms 
+    - Image segmentation: line & edge detection (Canny, Hough), thresholding, color models, smoothing & sharpening, color segmentation
+    - Representation & description: chain codes, signatures, skeletons, descriptors 
+    - Object recognition: classifiers, cluster analysis, etc. 
 - Design and Practice of Robotic System 
 - Theoretical Mechanics 
 
@@ -141,9 +153,15 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 - Linear Algebra and Analytical Geometry 
 - Probability Theory and Mathematical Statistics 
 - Functions of Complex Variables and Integral Transforms 
-- Mathematical Programming (Optimization) 
+- Mathematical Programming (Optimization Fundamentals, Operation Research) 
+    - Linear programming, integer programming: simplex, 
+    - Unconstrained nonlinear optimization: convexity, gradient descend, conjugate gradient descend (PRP, FR, DM), Newton, DFP 
+    - Constrained nonlinear optimization: K-T conditions, SUMT, multiplier method (Hestens, Powell) 
+    - Multi-objective optimization: goal programming
+    - Dynamic programming
 
-### Computer Science 
+### Computer Science
+
 - Introduction to Machine Learning 
 - Data Structure and Algorithm 
 - Advanced Computer Language Programming 

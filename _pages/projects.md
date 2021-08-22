@@ -100,7 +100,7 @@ author_profile: true
 ---
 ## Centralized Multi-Robot Task Allocation
 
--   Advisor: Prof. [Hui Cheng](https://www.usilab.cn/team/chenghui/) @ SYSU 
+-   Advisor: Prof. [Hui Cheng](https://sdcs.sysu.edu.cn/content/2504) @ SYSU 
 -   Team: **Hao Luan**, Yanheng Wang, Zihao Zeng. 
 -   Designed and implemented a centralized offline task-allocation algorithm for multi-robot systems based on the Ant Colony System. 
 -   Compared with a conventional optimal DFS algorithm, simulation showed time-consuming ratios down to 1/2400 and relative errors below 10% in dense directed graphs consisting of up to 20 vertices. 

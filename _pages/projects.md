@@ -7,20 +7,56 @@ author_profile: true
 
 {% include base_path %}
 
+### TOC
+[Robotic Autonomous Trolley Collection](#robotic-autonomous-trolley-collection)  
+[Distributed Consensus of Constrained MAS under Directed Graphs](#distributed-consensus-of-constrained-mas-under-directed-graphs)  
+[Vision-Based Auto Parking](#vision-based-auto-parking)  
+[Six-Arm Robot Palletizing](#six-arm-robot-palletizing)  
+[Line Patrolling Robot](#line-patrolling-robot)  
+[Stable Controller Design for Inverted Pendulum](#stable-controller-design-for-inverted-pendulum)  
+[Stable Controller Design for Magnetic Levitation](#stable-controller-design-for-magnetic-levitation)  
+[Centralized Multi-Robot Task Allocation](#centralized-multi-robot-task-allocation)  
+
+
+---
+## Robotic Autonomous Trolley Collection
+
+<center>
+<img src="../images/robot_trolley.png" width="768" align="center">
+<br/>
+(An autonomous robotic collecting system incororating detection, safe navigation, manipulation, and transportation.)
+</center>
+
+-   Advisors: Prof. [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/about.html) ([*Fellow, IEEE*](https://ieeexplore.ieee.org/author/37274117000)); Dr. [Jiankun Wang](https://jkwang1992.github.io/) 
+
+-   Our vision is to bring about a systematic solution to **robotic autonomous trolley collection in complex and dynamic large-scale environments**, like international airports. 
+-   This integrated system renders itself a challenge involving object detection, estimation & prediction, localization, efficient & safe planning and control, and robust mechanical design. 
+-   Details will be disclosed in our [*ICRA 2022* paper](/publication/xiao_robotic_ICRA2022/).  
+
+<!--
+
+-   Please see [this page](/cameras/) for details. 
+-->
 
 <br/>
+<br/>
 
-## Distributed Consensus of Constrained MAS under Directed Graphs (Ongoing)
+---
+## Distributed Consensus of Constrained MAS under Directed Graphs
 
-<img src="../images/robotariumSim.gif" scale="120%" align="center">
+<center>
+<img src="../images/robotariumSim.gif" width="500" align="center">
+<br/>
+(Simulation results powered by <a href="https://www.robotarium.gatech.edu/">the Robotarium</a> )
+</center>
 
-(Simulation results powered by [Robotarium](https://www.robotarium.gatech.edu/) )
+
 
 -   Advisor: Prof. [Jie Mei](http://faculty.hitsz.edu.cn/meijie) ([Google Scholar](https://scholar.google.com/citations?user=tyQm5IkAAAAJ)) 
 
--   Aim to provide a **distributed leaderless consensus** algorithm framework for a type of continuous-time linear multi-agent systems with **time-varying asymmetric state constraints**, uncertainties, and disturbances under time-varying directed topologies. 
--   Theoretical proof, numerical simulation and possibly physical experiments will be presented. 
--   Please click [here](https://edmundluan.github.io/cameras/) for details. 
+-   We aim to provide a **distributed leaderless consensus** algorithm framework for a type of continuous-time linear multi-agent systems with **time-varying asymmetric state constraints**, uncertainties, and disturbances under time-varying directed topologies. 
+-   Theoretical proof, numerical simulations and physical experiments are presented. 
+-   Please see [this page](https://edmundluan.github.io/cameras/) for details. 
 
 <br/>
 <br/>
@@ -88,7 +124,7 @@ author_profile: true
 <br/>
 
 ---
-## Stable Controller Design for the Magnetic Levitation 
+## Stable Controller Design for Magnetic Levitation 
 
 -   Advisor: Prof. Ai-Guo Wu 
 -   Modeled the magnetic levitation system and obtained its linearized plant model in transfer function. 

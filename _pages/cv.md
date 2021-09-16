@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-See a PDF version of my CV [here](https://edmundluan.github.io/files/CV_HaoLuan.pdf). [updated on Aug. 23, 2021]
+See a PDF version of my CV [here](/files/CV_HaoLuan.pdf). [Last update: Sep. 16, 2021]
 
 <br/>
 
@@ -39,7 +39,7 @@ See a PDF version of my CV [here](https://edmundluan.github.io/files/CV_HaoLuan.
 
 ## Experience
 
-* Research Assistant, *Robotics Perception & Intelligence Lab* @ [**Southern University of Science and Technology**](https://www.sustech.edu.cn/en/) , Aug. 2021 ~ Present 
+* Research Assistant, *Robotic Perception & Intelligence Lab* @ [**Southern University of Science and Technology**](https://www.sustech.edu.cn/en/), Aug. 2021 ~ Present 
 * Undergraduate Research Assistant, *MAS Lab* @ [**Harbin Institute of Technology, Shenzhen**](http://www.hitsz.edu.cn/index.html), Oct. 2019 ~ Jun. 2021 
 * Visiting Research Student, *Robotics Laboratory* @ [**Sun Yat-sen University**](http://sysu.edu.cn/en/index.htm), Nov. 2015 ~ May 2016 
 
@@ -47,18 +47,17 @@ See a PDF version of my CV [here](https://edmundluan.github.io/files/CV_HaoLuan.
 
 ## Publications
 
-### Journals
+\* indicates equal contribution. 
 
-    {% for post in site.publications %}
-        {% include archive-single-cv.html %}
-    {% endfor %}
+{% for post in site.publications %}
+{% include archive-single-cv.html %}
+{% endfor %}
 
 <br/>
 
 ## Selected Awards
 
 -   Outstanding Bachelor's Thesis at HITSZ (top 4%), 2021. 
-
 -   Undergraduate Academic Merit Scholarship at HITSZ, 3 times in 3 years, 2018~2020.
 -   Honorable Mention in [MCM](https://www.comap.com/undergraduate/contests/), 2020.
 -   Third Prize in the [NOIP](http://www.noi.cn/) (National Olympiad in Informatics in Provinces), 2016.
@@ -71,6 +70,10 @@ See a PDF version of my CV [here](https://edmundluan.github.io/files/CV_HaoLuan.
 
 Details are provided in the [Projects](https://edmundluan.github.io/projects/) page. 
 
+-   **Robotic Autonomous Trolley Collection at Airports**
+    -   Advisor: Prof. [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/about.html) ([*Fellow, IEEE*](https://ieeexplore.ieee.org/author/37274117000)), SUSTech 
+    -   Co-advisor: Dr. [Jiankun Wang](https://jkwang1992.github.io/), SUSTech 
+    
 -   **Distributed Consensus of Constrained MAS under Directed Graphs**
     -   Advisor: Prof. [Jie Mei](http://faculty.hitsz.edu.cn/meijie) ([Google Scholar](https://scholar.google.com/citations?user=tyQm5IkAAAAJ)) , HIT Shenzhen
 
@@ -124,13 +127,13 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 
 ### Controls
 - Automatic Control Theory I, II 
-  - Classical controls: transfer function, (asymptotic) stability, Routh-Hurwitz criterion, Nyquist criterion, root locus method, frequency correction, pole placement, etc. 
-  - Modern controls: state-space model, controllability & observability, canonical decomposition, state/output feedback, Lyapunov's methods, etc. 
+  - Classical controls: transfer function, (asymptotic) stability, Routh-Hurwitz criterion, Nyquist criterion, root locus method, frequency correction, pole placement, *etc*. 
+  - Modern controls: state-space model, controllability & observability, canonical decomposition, state/output feedback, Lyapunov's methods, *etc*. 
 - Automatic Control Practice I, II 
-  - Controller design: input analysis, sensitivity, anti-windup design, servo systems, regulating systems, multi-loop systems, etc. 
+  - Controller design: input analysis, sensitivity, anti-windup design, servo systems, regulating systems, multi-loop systems, *etc*. 
 - Process Control System
-- *Nonlinear and Adaptive Control* \*  (graduate level)
-  - \**Audited*: lectures, assignments, discussions. 
+- *Nonlinear and Adaptive Control* <sup>&dagger;</sup>  *(graduate level)*
+  - <sup>&dagger;</sup>*Audited*: lectures, assignments, discussions. 
 
 ### Robotics
 
@@ -143,7 +146,7 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
     - Morphological: erosion & dilation, opening & closing, other basic algorithms 
     - Image segmentation: line & edge detection (Canny, Hough), thresholding, color models, smoothing & sharpening, color segmentation
     - Representation & description: chain codes, signatures, skeletons, descriptors 
-    - Object recognition: classifiers, cluster analysis, etc. 
+    - Object recognition: classifiers, cluster analysis, *etc*. 
 - Design and Practice of Robotic System 
 - Theoretical Mechanics 
 
@@ -154,7 +157,7 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 - Probability Theory and Mathematical Statistics 
 - Functions of Complex Variables and Integral Transforms 
 - Mathematical Programming (Optimization Fundamentals, Operation Research) 
-    - Linear programming, integer programming: simplex, 
+    - Linear programming, integer programming: simplex, the two-phase method, duality, *etc*. 
     - Unconstrained nonlinear optimization: convexity, gradient descend, conjugate gradient descend (PRP, FR, DM), Newton, DFP 
     - Constrained nonlinear optimization: K-T conditions, SUMT, multiplier method (Hestens, Powell) 
     - Multi-objective optimization: goal programming

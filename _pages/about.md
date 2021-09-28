@@ -11,10 +11,8 @@ redirect_from:
 Hi! Welcome to my personal pages!
 
 My name is Hao Luan (栾昊). 
-I am currently a research assistant at the Southern University of Science and Technology (SUSTech), working in *Robotics Perception & Intelligence Lab (RPILab)* jointly led by Prof. [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/about.html) and Prof. [Hong Zhang](https://webdocs.cs.ualberta.ca/~zhang/index.html). 
+I am currently a research assistant at Southern University of Science and Technology (SUSTech), working at the *Robotic Perception & Intelligence Lab (RPILab)* jointly led by Prof. [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/about.html) and Prof. [Hong Zhang](https://webdocs.cs.ualberta.ca/~zhang/index.html). 
 My research interests lie in planning and control of robotic systems, with a particular interest in multi-agent/robot systems (MAS/MRS).
-
-
 
 
 
@@ -26,14 +24,14 @@ Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and 
 
 ## News
 
--   [Sep. 15, 2021] **ICRA 2022 Paper submitted** ! 
-    -   A. Xiao\*, **H. Luan\***, Z. Zhao\*, Y. Hong, J. Zhao, J. Wang, and M. Q.-H. Meng, "Robotic autonomous trolley collection with progressive perception and nonlinear model predictive control," *2022 International Conference on Robotics and Automation (ICRA)* (submitted), 2021. [Abstract](/files/abstr-Xiao_robotic_ICRA2022.pdf). 
+-   [Sep. 15, 2021] **ICRA 2022** Paper submitted ! 
+    -   A. Xiao\*, H. Luan\*, Z. Zhao\*, Y. Hong, J. Zhao, J. Wang, and M. Q.-H. Meng, "Robotic autonomous trolley collection with progressive perception and nonlinear model predictive control," *2022 International Conference on Robotics and Automation (ICRA)* (submitted), 2021. [Abstract](/files/abstr-Xiao_robotic_ICRA2022.pdf). 
 -   [Jun. 24, 2021] Won the **Outstanding Bachelor's Thesis** (top 4% ) ! 
     -   My thesis was ranked 1st within the Automation major of class 2021 (1/70) 
 -   [Jun. 9, 2021] Successfully defended my Bachelor's thesis!
 -   [May 29, 2021] **Paper submitted** ! 
-    -   **H. Luan**, J. Mei, H. Yu, and G. Ma, "Distributed constrained consensus of multi-agent systems with uncertainties and disturbances under switching directed graphs," *IEEE Transactions on Neural Networks and Learning Systems* (submitted), 2021. [Abstract](/files/abstr-Luan_distributed_2021_TNNLS.pdf). 
-    -   More details about this research [here](/constrainedcon/). 
+    -   H. Luan, J. Mei, H. Yu, and G. Ma, "Distributed constrained consensus of multi-agent systems with uncertainties and disturbances under switching directed graphs," *IEEE Transactions on Neural Networks and Learning Systems* (submitted), 2021. [Abstract](/files/abstr-Luan_distributed_2021_TNNLS.pdf). 
+    -   More details about this research [here](/cameras/). 
 
 <br/>
 
@@ -41,9 +39,12 @@ Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and 
 
 ## Contact
 
--   luanh[AT]mail.sustech.edu.cn
--   Rm. 423, South Bldg. College of Engineering, 1088 Xueyuan Blvd., Nanshan Dist., Shenzhen, China.
+e-mail: 
+-   luanh(AT)mail(dot)sustech(dot)edu(dot)cn  
 
+Office: 
+-   Rm. 423, South Tower, College of Engineering  
+    1088 Xueyuan Ave., Shenzhen 518055, China  
 
 
 

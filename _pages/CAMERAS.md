@@ -14,7 +14,7 @@ author_profile: false
 -   Consensus of multi-agent systems (MASs) has wide applications and many consensus algorithms have been proposed. However, state-of-the-art algorithms do not work well in realistic conditions. On the one hand, MASs in real-life scenarios are subject to various constraints, e.g. kinematic constraints, actuator saturation, safety concerns, etc., along with uncertainties and disturbances. On the other hand, most algorithms assume that any point in the state spaces of agents is reachable and therefore they do not have guarantees on not breaking the predesignated constraints.
 
 <center>
-<img src="../images/1ord_basic.png" scale="50%" />
+<img src="../images/1ord_basic.png" width="500" />
 <br/>
 (Fig. 1: Consensus subject to time-varying state constraints)
 </center>
@@ -26,25 +26,24 @@ author_profile: false
 <br/>
 <br/>
 
-## Contribution
+## Contributions
 
 -   We have proposed a distributed leaderless consensus framework for a class of continuous-time nonlinear MASs with time-varying asymmetric state constraints, uncertainties, and disturbances under time-varying directed topologies. 
 -   In the presence of bounded disturbances, continuous uncertainties in agents' models, and **time-varying constraints on agents' positions**, consensus control algorithms under the CAMERAS framework for MASs consisting of agents governed by first- or second-order dynamics have been put forward and validated theoretically and numerically.  
 
 <center>
-<img src="../images/2ord.png" scale="100%" />
+<img src="../images/2ord.png" width="900" />
 <br/>
-(Fig. 2: Numerical simulation results of four double integrators achieving consensus under switching directed topologies) 
+(Fig. 2: Numerical simulation results of four double integrators achieving consensus under switching directed topologies.) 
 </center>
 
 
-<br/>
 <br/>
 
 -   Simulations powered by [the Robotarium](https://www.robotarium.gatech.edu/)[^1] have shown the effectiveness of our algorithms. See Fig. 3.  
 
 <center>
-<img src="../images/6_simResults_03151152.gif" scale="120%" />
+<img src="../images/6_simResults_03151152.gif" width="600"/>
 <br/>
 (Fig. 3: Six robots rendezvous under switching directed topologies subject to time-varying constraints) 
 </center>
@@ -67,13 +66,15 @@ author_profile: false
 <br/>
 (bilibili link for friends inside the GFW <a href="https://www.bilibili.com/video/BV1MK4y1P7vd/">here</a>)
 </center>
+
+
 <br/>
 <br/>
 
 ## Related publications
 
 
--   **Details are disclosed in our paper**. For the time being, please see an abstract [here](https://edmundluan.github.io/files/abstr-Luan_distributed_2021_TNNLS.pdf). 
+-   **Details are disclosed in our paper**. The paper is still under review, so, for the time being, please refer to an abstract [here](/files/abstr-Luan_distributed_2021_TNNLS.pdf). 
 
 
 
@@ -82,8 +83,8 @@ author_profile: false
 
 ## Extension: CAMERAS-PRO
 
--   On the basis of CAMERAS, we will work on constrained consensus with both time-varying state constraints and **prescribed performance**. 
--   We aim to tackle prescribed consensus performance under a modified version of CAMERAS called **C**onstr**A**ined **M**od**E**l **R**eference **A**daptive con**S**ensus with **P**resc**R**ibed perf**O**rmance (*CAMERAS-PRO*). 
+-   On the basis of *CAMERAS*, we will work on constrained consensus with both time-varying state constraints and **prescribed performance**. 
+-   We aim to tackle prescribed consensus performance under a modified version of *CAMERAS* called **C**onstr**A**ined **M**od**E**l **R**eference **A**daptive con**S**ensus with **P**resc**R**ibed perf**O**rmance (*CAMERAS-PRO*). 
 -   More on this later, stay tuned.
 
 <br/>

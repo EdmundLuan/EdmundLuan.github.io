@@ -32,9 +32,13 @@ author_profile: true
 -   Our vision is to bring about a systematic solution to **robotic autonomous trolley collection in complex and dynamic large-scale environments**, like international airports. 
 -   This integrated system renders itself a challenge involving object detection, estimation & prediction, localization, efficient & safe planning and control, and robust mechanical design. 
 -   Details will be disclosed in our [*ICRA 2022* paper](/publication/xiao_robotic_ICRA2022/).  
+<center>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/1N25RQcKaw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(YouTube link  <a href="https://youtu.be/1N25RQcKaw4">here</a>)
+</center>
+<br/>
 
 <!--
-
 -   Please see [this page](/cameras/) for details. 
 -->
 
@@ -56,7 +60,7 @@ author_profile: true
 
 -   We aim to provide a **distributed leaderless consensus** algorithm framework for a type of continuous-time linear multi-agent systems with **time-varying asymmetric state constraints**, uncertainties, and disturbances under time-varying directed topologies. 
 -   Theoretical proof, numerical simulations and physical experiments are presented. 
--   Please see [this page](https://edmundluan.github.io/cameras/) for details. 
+-   Please see [this page](/cameras/) for details. 
 
 <br/>
 <br/>
@@ -83,6 +87,7 @@ author_profile: true
 -   Achieved fast palletizing motions with high accuracy.
 
 <!--
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WScgMeEDBrM?loop=1&autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;loop" allowfullscreen></iframe>
 --->
 <video src="../videos/Palletize.mp4" width="560" height="315" controls autoplay loop align="center"></video>

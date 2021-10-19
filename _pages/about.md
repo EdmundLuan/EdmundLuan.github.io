@@ -20,27 +20,25 @@ Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and 
 
 <br/>
 
-<br/>
-
 ## News
 
 -   [Sep. 15, 2021] **ICRA 2022** Paper submitted ! 
-    -   A. Xiao\*, H. Luan\*, Z. Zhao\*, Y. Hong, J. Zhao, J. Wang, and M. Q.-H. Meng, "Robotic autonomous trolley collection with progressive perception and nonlinear model predictive control," *2022 International Conference on Robotics and Automation (ICRA)* (submitted), 2021. [Abstract](/files/abstr-Xiao_robotic_ICRA2022.pdf). 
+    -   A. Xiao\*, H. Luan\*, Z. Zhao\*, Y. Hong, J. Zhao, J. Wang, and M. Q.-H. Meng, "Robotic autonomous trolley collection with progressive perception and nonlinear model predictive control," *2022 International Conference on Robotics and Automation (ICRA)* (submitted), 2021. [Preprint](https://arxiv.org/abs/2110.06648). 
+    -   Details about this project [here](/trolley-collection/). 
 -   [Jun. 24, 2021] Won the **Outstanding Bachelor's Thesis** (top 4% ) ! 
     -   My thesis was ranked 1st within the Automation major of class 2021 (1/70) 
--   [Jun. 9, 2021] Successfully defended my Bachelor's thesis!
+-   [Jun. &nbsp;&nbsp;9, 2021] Successfully defended my Bachelor's thesis!
 -   [May 29, 2021] **Paper submitted** ! 
-    -   H. Luan, J. Mei, H. Yu, and G. Ma, "Distributed constrained consensus of multi-agent systems with uncertainties and disturbances under switching directed graphs," *IEEE Transactions on Neural Networks and Learning Systems* (submitted), 2021. [Abstract](/files/abstr-Luan_distributed_2021_TNNLS.pdf). 
-    -   More details about this research [here](/cameras/). 
+    -   H. Luan, J. Mei, H. Yu, and G. Ma, "Distributed constrained consensus of multi-agent systems with uncertainties and disturbances under switching directed graphs." 2022. [Abstract](/files/abstr-Luan_distributed_2021.pdf). 
+    -   Details about this research [here](/cameras/). 
 
 <br/>
-
 <br/>
 
 ## Contact
 
-e-mail: 
--   luanh(AT)mail(dot)sustech(dot)edu(dot)cn  
+E-mail: 
+-   luanh (AT) mail(dot)sustech(dot)edu(dot)cn  
 
 Office: 
 -   Rm. 423, South Tower, College of Engineering  

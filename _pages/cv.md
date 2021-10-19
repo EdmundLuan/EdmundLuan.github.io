@@ -9,35 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-See a PDF version of my CV [here](/files/CV_HaoLuan.pdf). [Last update: Sep. 16, 2021]
+See a PDF version of my CV [here](/files/CV_HaoLuan.pdf). [Last update: Oct. 19, 2021]
 
 <br/>
 
-## Education ##
+## Education 
 
-### Harbin Institute of Technology, Shenzhen (HITSZ) ###
+### Harbin Institute of Technology, Shenzhen (HITSZ) 
 
 -   B.Eng. in Automation, Aug. 2017 ~ Jun. 2021 
 
     -   CGPA: 3.8/4 ; 90.1/100
     -   Outstanding Bachelor's Thesis
     -   Undergraduate Academic Merit Scholarship winner
+    -   Related coursework: a detailed list [here](#selected-relevant-coursework)
 
-### Guangdong Experimental High School ###
+### Guangdong Experimental High School 
 
 -   General High School Diploma, science stream, Sep. 2014 ~ Jun. 2017 
 
 <br/>
 <br/>
 
-## Related Coursework ##
 
--   Click [here](#selected-relevant-coursework) to see a detailed list. 
-
-
-<br/>
-
-## Experience ##
+## Experience 
 
 -   Research Assistant, *Robotic Perception & Intelligence Lab* @ [**Southern University of Science and Technology**](https://www.sustech.edu.cn/en/), Aug. 2021 ~ Present 
 -   Undergraduate Research Assistant, *MAS Lab* @ [**Harbin Institute of Technology, Shenzhen**](http://www.hitsz.edu.cn/index.html), Oct. 2019 ~ Jun. 2021 
@@ -45,7 +40,7 @@ See a PDF version of my CV [here](/files/CV_HaoLuan.pdf). [Last update: Sep. 16,
 
 <br/><br/>
 
-## Publications ##
+## Publications 
 
 \* indicates equal contribution. 
 
@@ -55,7 +50,7 @@ See a PDF version of my CV [here](/files/CV_HaoLuan.pdf). [Last update: Sep. 16,
 
 <br/><br/>
 
-## Selected Awards ##
+## Selected Awards 
 
 -   Outstanding Bachelor's Thesis at HITSZ (top 4%), 2021. 
 -   Undergraduate Academic Merit Scholarship at HITSZ, 3 times in 3 years, 2018~2020.
@@ -65,16 +60,17 @@ See a PDF version of my CV [here](/files/CV_HaoLuan.pdf). [Last update: Sep. 16,
 
 <br/><br/>
 
-## Selected Academic Activities ##
+## Selected Academic Activities 
 
-### Conference Reviewing ###
+### Conference Reviewing
 
--   IEEE International Conference on Robotics and Biomimetics (ROBIO 2021)
+-   IEEE International Conference on Robotics and Automation (ICRA [2022](https://www.icra2022.org/))
+-   IEEE International Conference on Robotics and Biomimetics (ROBIO [20/21](https://ieee-robio.org/2021/))
 
 <br/><br/>
 
 
-## Selected Projects ##
+## Selected Projects 
 
 Details are provided in the [Projects](https://edmundluan.github.io/projects/) page.  
 (Team members are listed <u><i>alphabetically by last names</i></u>.)  
@@ -114,7 +110,7 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 
 
 
-## Computer Literacy ##
+## Computer Literacy 
 
 -   Programming: C/C++, Julia, Pascal, Python 
 -   Others: Git, $\LaTeX$, Markdown, MATLAB/Simulink, Wolfram Mathematica, ROS 
@@ -123,7 +119,7 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 <br/>
 
 
-## Extracurricular Activities ##
+## Extracurricular Activities 
 
 -   Soccer player on the HITSZ Student Soccer Team (Pos: centre back(CB), fullback(LB/RB) )
 -   Volunteer services
@@ -136,9 +132,9 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 
 ---
 
-## Selected Relevant Coursework ##
+## Selected Relevant Coursework 
 
-### Control ###
+### Control 
 
 -   Automatic Control Theory I, II 
     -   Classical control: transfer function, (asymptotic) stability, Routh-Hurwitz criterion, Nyquist criterion, root locus method, frequency correction, pole placement, *etc*. 
@@ -149,7 +145,7 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 -   *Nonlinear and Adaptive Control* <sup>&dagger;</sup>  *(graduate level)*
     -   <sup>&dagger;</sup>*Audited*: lectures, assignments, discussions. 
 
-### Robotics ###
+### Robotics 
 
 -   Introduction to Robotics 
     -   Rigid body motion: rotational motion, rigid motion, velocity of rigid bodies, wrenches & reciprocal screws
@@ -164,7 +160,7 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 -   Design and Practice of Robotic System 
 -   Theoretical Mechanics 
 
-### Mathematics ###
+### Mathematics 
 
 -   Mathematical Analysis III 
 -   Advanced Mathematics (Calculus) I, II 
@@ -178,7 +174,7 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
     -   Multi-objective optimization: goal programming
     -   Dynamic programming
 
-### Computer Science ###
+### Computer Science 
 
 -   Introduction to Machine Learning 
 -   Data Structure and Algorithm 
@@ -186,13 +182,13 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 -   C Programming Language 
 
 
-### Electronics ###
+### Electronics 
 
 -   Electric Circuit I, II
 -   Fundamentals of Analog Electronics
 -   Digital Electronic Technology Foundation 
 
-### Others ###
+### Others 
 
 -   Signal Analysis and Processing (Signal and System) 
 -   System Modeling and Simulation 
@@ -201,4 +197,3 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
 -   Technology and Application of Big Data 
 
 <br/>
-

@@ -8,7 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ### TOC
-[Robotic Autonomous Trolley Collection](#robotic-autonomous-trolley-collection)  
+
+[Robotic Autonomous Trolley Collection](#robotic-autonomous-trolley-collection-ongoing)  
 [Distributed Consensus of Constrained MAS under Directed Graphs](#distributed-consensus-of-constrained-mas-under-directed-graphs)  
 [Vision-Based Auto Parking](#vision-based-auto-parking)  
 [Six-Arm Robot Palletizing](#six-arm-robot-palletizing)  
@@ -19,33 +20,28 @@ author_profile: true
 
 
 ---
-## Robotic Autonomous Trolley Collection
+
+## Robotic Autonomous Trolley Collection (Ongoing)
 
 <center>
-<img src="../images/robot_trolley.png" width="768" align="center">
+<img src="../images/robot_trolley.png" width="640" align="center">
 <br/>
-(An autonomous robotic collecting system incororating detection, safe navigation, manipulation, and transportation.)
+(An autonomous robotic collecting system incorporating detection, safe navigation, manipulation, and transportation.)
 </center>
+
 
 -   Advisors: Prof. [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/about.html) ([*Fellow, IEEE*](https://ieeexplore.ieee.org/author/37274117000)); Dr. [Jiankun Wang](https://jkwang1992.github.io/) 
-
--   Our vision is to bring about a systematic solution to **robotic autonomous trolley collection in complex and dynamic large-scale environments**, like international airports. 
+-   The objective is to bring about a systematic solution to **robotic autonomous trolley collection in complex and dynamic large-scale environments**, like international airports. 
 -   This integrated system renders itself a challenge involving object detection, estimation & prediction, localization, efficient & safe planning and control, and robust mechanical design. 
--   Details will be disclosed in our [*ICRA 2022* paper](/publication/xiao_robotic_ICRA2022/).  
-<center>
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/1N25RQcKaw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-(YouTube link  <a href="https://youtu.be/1N25RQcKaw4">here</a>)
-</center>
-<br/>
+-   Please see [this page](/trolley-collection/) or refer to our *ICRA 2022* [paper](/publication/xiao_robotic_ICRA2022/) for details.  
 
-<!--
--   Please see [this page](/cameras/) for details. 
--->
+
 
 <br/>
 <br/>
 
 ---
+
 ## Distributed Consensus of Constrained MAS under Directed Graphs
 
 <center>
@@ -66,6 +62,7 @@ author_profile: true
 <br/>
 
 ---
+
 ## Vision-Based Auto Parking
 
 -   Advisor: Prof. [Haoyao Chen](http://nrs-lab.com/people/) 
@@ -79,6 +76,7 @@ author_profile: true
 <br/>
 
 ---
+
 ## Six-Arm Robot Palletizing 
 
 -   Advisor: Prof. [Yunjiang Lou](http://faculty.hitsz.edu.cn/louyunjiang?lang=en) ([Google Scholar](https://scholar.google.com/citations?user=8Ulrn3cAAAAJ))  
@@ -99,6 +97,7 @@ author_profile: true
 <br/>
 
 ---
+
 ## Line Patrolling Robot
 
 -   Advisor: Prof. Haoyao Chen
@@ -116,6 +115,7 @@ author_profile: true
 
 
 ---
+
 ## Stable Controller Design for Inverted Pendulum 
 
 -   Advisor: Prof. [Ai-Guo Wu](https://ieeexplore.ieee.org/author/38182430000) 
@@ -129,6 +129,7 @@ author_profile: true
 <br/>
 
 ---
+
 ## Stable Controller Design for Magnetic Levitation 
 
 -   Advisor: Prof. Ai-Guo Wu 
@@ -139,6 +140,7 @@ author_profile: true
 <br/>
 
 ---
+
 ## Centralized Multi-Robot Task Allocation
 
 -   Advisor: Prof. [Hui Cheng](https://sdcs.sysu.edu.cn/content/2504) @ SYSU 

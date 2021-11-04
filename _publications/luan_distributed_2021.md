@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/luan-distributed-2021/
 excerpt: ' '
 date: 2022-1-1
-venue: 'Under review'
+venue: 'IEEE. Under review'
 paperurl: ''
 citation: '<b>H. Luan</b>, J. Mei, H. Yu, and G. Ma. &quot;Distributed constrained consensus of multi-agent systems with uncertainties and disturbances under switching directed graphs.&quot; 2022. <b>Under Review.</b>'
 ---

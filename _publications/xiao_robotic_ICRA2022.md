@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/xiao-robotic-ICRA2022/
 excerpt: ' '
 date: 2022-1-1
-venue: 'International Conference on Robotics and Automation (ICRA)'
+venue: '2022 International Conference on Robotics and Automation (ICRA). IEEE'
 paperurl: 'https://arxiv.org/abs/2110.06648'
 citation: 'A. Xiao*, <b>H. Luan*</b>, Z. Zhao*, Y. Hong, J. Zhao, J. Wang, M. Q.-H. Meng. &quot;Robotic autonomous trolley collection with progressive perception and nonlinear model predictive control.&quot; <i> International Conference on Robotics and Automation (ICRA)</i>, 2022. <b>Under Review.</b>'
 ---

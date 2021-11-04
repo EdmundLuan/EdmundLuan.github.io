@@ -63,9 +63,12 @@ Our contributions are four-fold. Concretely, we
 
 ## Future Work
 
--   Global decision-making. 
+-   Global decision-making
+    -   Perception-aware planning
 -   Multi-robot collaborative manipulation. 
--   Safe human-robot interaction. 
+-   Safe human-robot interaction: 
+    -   human model building, tracking, and prediction
+    -   safe-critical planning under uncertainty
 -   Field deployment at real-world international airports. 
 
 <br/>

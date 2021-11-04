@@ -9,7 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-See a PDF version of my CV [here](/files/CV_HaoLuan.pdf). [Last update: Oct. 19, 2021]
+**CV**: [Last update: Nov. 04, 2021]
+-   brief version: [[PDF]](/files/CV_short_HaoLuan.pdf); 
+-   detailed version: [[PDF]](/files/CV_HaoLuan.pdf). 
+ 
 
 <br/>
 
@@ -18,27 +21,25 @@ See a PDF version of my CV [here](/files/CV_HaoLuan.pdf). [Last update: Oct. 19,
 ### Harbin Institute of Technology, Shenzhen (HITSZ) 
 
 -   B.Eng. in Automation, Aug. 2017 ~ Jun. 2021 
-
     -   CGPA: 3.8/4 ; 90.1/100
-    -   Outstanding Bachelor's Thesis
-    -   Undergraduate Academic Merit Scholarship winner
-    -   Related coursework: a detailed list [here](#selected-relevant-coursework)
+    -   Outstanding Bachelor's Thesis (Top 4%)
+    -   Undergraduate Academic Merit Scholarship
+    -   Coursework: a detailed list [here](#selected-relevant-coursework)
 
 ### Guangdong Experimental High School 
 
 -   General High School Diploma, science stream, Sep. 2014 ~ Jun. 2017 
 
 <br/>
-<br/>
-
 
 ## Experience 
 
--   Research Assistant, *Robotic Perception & Intelligence Lab* @ [**Southern University of Science and Technology**](https://www.sustech.edu.cn/en/), Aug. 2021 ~ Present 
--   Undergraduate Research Assistant, *MAS Lab* @ [**Harbin Institute of Technology, Shenzhen**](http://www.hitsz.edu.cn/index.html), Oct. 2019 ~ Jun. 2021 
--   Visiting Research Student, *Robotics Laboratory* @ [**Sun Yat-sen University**](http://sysu.edu.cn/en/index.htm), Nov. 2015 ~ May 2016 
+-   **Research Assistant**, *Robotic Perception & Intelligence Lab* @ [**Southern University of Science and Technology**](https://www.sustech.edu.cn/en/), Aug. 2021 ~ Present 
+-   **Undergraduate Research Assistant**, *MAS Lab* @ [**Harbin Institute of Technology, Shenzhen**](http://www.hitsz.edu.cn/index.html), Oct. 2019 ~ Jun. 2021 
+-   **Software Development Intern** @ *PengBo Technology (Shenzhen) Co. Ltd.*, Mar. 2021 ~ May 2021
+-   **Visiting Research Student**, *Robotics Laboratory* @ [**Sun Yat-sen University**](http://sysu.edu.cn/en/index.htm), Nov. 2015 ~ May 2016 
 
-<br/><br/>
+<br/>
 
 ## Publications 
 
@@ -48,9 +49,9 @@ See a PDF version of my CV [here](/files/CV_HaoLuan.pdf). [Last update: Oct. 19,
     {% include archive-single-cv.html %}
 {% endfor %}
 
-<br/><br/>
+<br/>
 
-## Selected Awards 
+## Selected Awards & Honors
 
 -   Outstanding Bachelor's Thesis at HITSZ (top 4%), 2021. 
 -   Undergraduate Academic Merit Scholarship at HITSZ, 3 times in 3 years, 2018~2020.
@@ -58,7 +59,7 @@ See a PDF version of my CV [here](/files/CV_HaoLuan.pdf). [Last update: Oct. 19,
 -   Third Prize in the [NOIP](http://www.noi.cn/) (National Olympiad in Informatics in Provinces), 2016.
 -   Honor Roll in the [AMC12](https://www.maa.org/math-competitions/american-mathematics-contest-12-amc-12), invited to [AIME](https://www.maa.org/math-competitions/american-invitational-mathematics-examination-aime), 2016.
 
-<br/><br/>
+<br/>
 
 ## Selected Academic Activities 
 
@@ -67,12 +68,12 @@ See a PDF version of my CV [here](/files/CV_HaoLuan.pdf). [Last update: Oct. 19,
 -   IEEE International Conference on Robotics and Automation (ICRA [2022](https://www.icra2022.org/))
 -   IEEE International Conference on Robotics and Biomimetics (ROBIO [20/21](https://ieee-robio.org/2021/))
 
-<br/><br/>
+<br/>
 
 
 ## Selected Projects 
 
-Details are provided in the [Projects](https://edmundluan.github.io/projects/) page.  
+Details are provided in the [Projects page](https://edmundluan.github.io/projects/).  
 (Team members are listed <u><i>alphabetically by last names</i></u>.)  
 
 -   **Robotic Autonomous Trolley Collection at Airports**
@@ -102,33 +103,32 @@ Details are provided in the [Projects](https://edmundluan.github.io/projects/) p
     -   Advisor: Prof. Ai-Guo Wu , HIT Shenzhen
 
 -   Centralized Multi-Robot Task Allocation
-    -   Advisor: Prof. [Hui Cheng](http://sdcs.sysu.edu.cn/content/2504) , SYSU
+    -   Advisor: Prof. [Hui Cheng](https://cse.sysu.edu.cn/content/2504) , SYSU
     -   Team: **Hao Luan**, Yanheng Wang, Zihao Zeng  
 
 
-<br/><br/>
+<br/>
 
 
 
 ## Computer Literacy 
 
 -   Programming: C/C++, Julia, Pascal, Python 
--   Others: Git, $\LaTeX$, Markdown, MATLAB/Simulink, Wolfram Mathematica, ROS 
+-   Tools: Git, $\LaTeX$, Markdown, MATLAB/Simulink, Wolfram Mathematica, ROS, VIM
 
-<br/>
 <br/>
 
 
 ## Extracurricular Activities 
 
--   Soccer player on the HITSZ Student Soccer Team (Pos: centre back(CB), fullback(LB/RB) )
+-   **Athletics**: Centre Back(CB)/Fullback(LB/RB), HITSZ Student Soccer Team, 2017 ~ 2021
 -   Volunteer services
 
 
 
 <br/>
 <br/>
-<br/>
+
 
 ---
 

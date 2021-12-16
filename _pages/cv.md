@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**CV**: [Last update: Nov. 04, 2021]
+**CV**: [Last update: Dec. 16, 2021]
 -   brief version: [[PDF]](/files/CV_short_HaoLuan.pdf); 
 -   detailed version: [[PDF]](/files/CV_HaoLuan.pdf). 
  
@@ -18,7 +18,7 @@ redirect_from:
 
 ## Education 
 
-### Harbin Institute of Technology, Shenzhen (HITSZ) 
+### Harbin Institute of Technology 
 
 -   B.Eng. in Automation, Aug. 2017 ~ Jun. 2021 
     -   CGPA: 3.8/4.0 , 90.1/100
@@ -53,8 +53,8 @@ redirect_from:
 
 ## Selected Awards & Honors
 
--   Outstanding Bachelor's Thesis at HITSZ (top 4%), 2021. 
--   Undergraduate Academic Merit Scholarship at HITSZ, 3 times in 3 years, 2018~2020.
+-   Outstanding Bachelor's Thesis (top 4%), 2021. 
+-   Undergraduate Academic Merit Scholarship, 3 times in 3 years, 2018~2020.
 -   Honorable Mention in [MCM](https://www.comap.com/undergraduate/contests/), 2020.
 -   Third Prize in the [NOIP](http://www.noi.cn/) (National Olympiad in Informatics in Provinces), 2016.
 -   Honor Roll in the [AMC12](https://www.maa.org/math-competitions/american-mathematics-contest-12-amc-12), invited to [AIME](https://www.maa.org/math-competitions/american-invitational-mathematics-examination-aime), 2016.

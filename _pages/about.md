@@ -12,7 +12,7 @@ Hi! Welcome to my personal pages!
 
 My name is Hao Luan (栾昊). 
 I am currently a research assistant at Southern University of Science and Technology (SUSTech), working at the *Robotic Perception & Intelligence Lab (RPILab)* jointly led by Prof. [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/about.html) and Prof. [Hong Zhang](https://webdocs.cs.ualberta.ca/~zhang/index.html). 
-My research interests lie in planning and control of robotic systems, with a particular interest in multi-agent/robot systems (MAS/MRS).
+My research interests lie in the decison-making and control of robotic systems, with a particular interest in multi-agent/robot systems (MAS/MRS).
 
 
 

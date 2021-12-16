@@ -21,7 +21,7 @@ redirect_from:
 ### Harbin Institute of Technology, Shenzhen (HITSZ) 
 
 -   B.Eng. in Automation, Aug. 2017 ~ Jun. 2021 
-    -   CGPA: 3.8/4 ; 90.1/100
+    -   CGPA: 3.8/4.0 , 90.1/100
     -   Outstanding Bachelor's Thesis (Top 4%)
     -   Undergraduate Academic Merit Scholarship
     -   Coursework: a detailed list [here](#selected-relevant-coursework)

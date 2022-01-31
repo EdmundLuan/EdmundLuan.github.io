@@ -6,13 +6,12 @@ excerpt: ' '
 date: 2022-1-1
 venue: 'IEEE. Under review'
 paperurl: ''
-citation: '<b>H. Luan</b>, J. Mei, H. Yu, and G. Ma. &quot;Distributed constrained consensus of multi-agent systems with uncertainties and disturbances under switching directed graphs.&quot; 2022. <b>Under Review.</b>'
+citation: '<b>H. Luan</b>, J. Mei, H. Yu, and A.-G. Wu. &quot;Distributed constrained consensus of multi-agent systems with uncertainties and disturbances under switching directed graphs.&quot; 2022. <b>Under Review.</b>'
 ---
 
 
-For now, [download an abstract here](/files/abstr-Luan_distributed_2021.pdf). 
+For now, [download an abstract here](/files/abstr-Luan_distributed_2021.pdf).  
 
-I will update this page ASAP. 
 
 <!--
 

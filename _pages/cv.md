@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**CV**: [Last update: Dec. 16, 2021]
+**CV**: [Last update: Jan. 4, 2021]
 -   brief version: [[PDF]](/files/CV_short_HaoLuan.pdf); 
 -   detailed version: [[PDF]](/files/CV_HaoLuan.pdf). 
  
@@ -21,7 +21,7 @@ redirect_from:
 ### Harbin Institute of Technology 
 
 -   B.Eng. in Automation, Aug. 2017 ~ Jun. 2021 
-    -   CGPA: 3.8/4.0 , 90.1/100
+    -   CGPA: 3.8/4.0 , 90.1/100 ; Final-year: 93.1/100 
     -   Outstanding Bachelor's Thesis (Top 4%)
     -   Undergraduate Academic Merit Scholarship
     -   Coursework: a detailed list [here](#selected-relevant-coursework)

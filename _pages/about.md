@@ -23,8 +23,9 @@ Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and 
 
 ## News
 
+-   [Feb.  1, 2021] A paper is accepted to **ICRA 2022**. Happy Chinese New Year!
+    -   A. Xiao\*, H. Luan\*, Z. Zhao\*, Y. Hong, J. Zhao, J. Wang, and M. Q.-H. Meng, "Robotic autonomous trolley collection with progressive perception and nonlinear model predictive control," *2022 International Conference on Robotics and Automation (ICRA)*. Accepted. 2022. [Preprint](https://arxiv.org/abs/2110.06648). 
 -   [Sep. 15, 2021] **ICRA 2022** Paper submitted ! 
-    -   A. Xiao\*, H. Luan\*, Z. Zhao\*, Y. Hong, J. Zhao, J. Wang, and M. Q.-H. Meng, "Robotic autonomous trolley collection with progressive perception and nonlinear model predictive control," *2022 International Conference on Robotics and Automation (ICRA)* (submitted), 2021. [Preprint](https://arxiv.org/abs/2110.06648). 
     -   Details about this project [here](/trolley-collection/). 
 -   [Jun. 24, 2021] Won the **Outstanding Bachelor's Thesis** (top 4% ) ! 
     -   My thesis was ranked 1st within the Automation major of class 2021 (1/70) 

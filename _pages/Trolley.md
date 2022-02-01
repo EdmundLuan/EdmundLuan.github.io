@@ -68,7 +68,8 @@ Our contributions are four-fold. Concretely, we
 -   Multi-robot collaborative manipulation. 
 -   Safe human-robot interaction: 
     -   human model building, tracking, and prediction
-    -   safe-critical planning under uncertainty
+    -   considering the interactive nature of autonomous agents (humans & other robots) 
+    -   safety-critical planning under uncertainty
 -   Field deployment at real-world international airports. 
 
 <br/>
@@ -79,7 +80,7 @@ Our contributions are four-fold. Concretely, we
 
 \* indicates co-first authors. 
 
--   "A. Xiao\*, H. Luan\*, Z. Zhao\*, Y. Hong, J. Zhao, J. Wang, M. Q.-H. Meng. "Robotic autonomous trolley collection with progressive perception and nonlinear model predictive control." *International Conference on Robotics and Automation (ICRA)*, 2022. **Under Review**.
+-   A. Xiao\*, H. Luan\*, Z. Zhao\*, Y. Hong, J. Zhao, J. Wang, and M. Q.-H. Meng. "Robotic autonomous trolley collection with progressive perception and nonlinear model predictive control." *2022 International Conference on Robotics and Automation (ICRA)*. Accepted. 2022.
     -   Preprint on arXiv: [https://arxiv.org/abs/2110.06648](https://arxiv.org/abs/2110.06648). 
 
 <br/>
@@ -88,5 +89,5 @@ Our contributions are four-fold. Concretely, we
 
 #### Reference
 
-<a id="foot1">[1] C. Wang <i>et al</i>., "Coarse-to-Fine Visual Object Catching Strategy Applied in Autonomous Airport Baggage Trolley Collection," in <i>IEEE Sensors Journal</i>, vol. 21, no. 10, pp. 11844-11857, 15 May15, 2021, doi: 10.1109/JSEN.2020.3022459.</a> 
+<a id="foot1">[1] C. Wang <i>et al</i>., "Coarse-to-Fine Visual Object Catching Strategy Applied in Autonomous Airport Baggage Trolley Collection," in <i>IEEE Sensors Journal</i>, vol. 21, no. 10, pp. 11844-11857, 2021, doi: 10.1109/JSEN.2020.3022459.</a> 
 

@@ -41,20 +41,36 @@ Our contributions are four-fold. Concretely, we
 
 ## Demo
 
--   A demo video of deploying our system in a complex and dynamic environment to accomplish an actual trolley collection task. 
+-   See below our ICRA 2022 presentation video introducting this work. 
+-   It includes a demo of deploying our system in a complex and dynamic environment to accomplish an actual trolley collection task. 
 
+<center>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/eTFTHZl3qT4" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(YouTube link <a href="https://youtu.be/eTFTHZl3qT4">here</a>)
+</center>
+
+<!-- 
 <center>
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/1N25RQcKaw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 (YouTube link <a href="https://youtu.be/1N25RQcKaw4">here</a>)
 </center>
+-->
 
 <br/>
 
+<center>
+<iframe width="960" height="540" src="https://player.bilibili.com/player.html?bvid=BV1aA4y1d7Lb&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<br/>
+(bilibili link <a href="https://www.bilibili.com/video/BV1aA4y1d7Lb/">here</a> for friends inside the GFW)
+</center>
+
+<!-- 
 <center>
 <iframe width="960" height="540" src="https://player.bilibili.com/player.html?aid=335841708&bvid=BV18R4y1n7si&cid=417244637&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br/>
 (bilibili link <a href="https://www.bilibili.com/video/BV1MK4y1P7vd/">here</a> for friends inside the GFW)
 </center>
+-->
 
 
 
@@ -80,7 +96,7 @@ Our contributions are four-fold. Concretely, we
 
 \* indicates co-first authors. 
 
--   A. Xiao\*, H. Luan\*, Z. Zhao\*, Y. Hong, J. Zhao, J. Wang, and M. Q.-H. Meng. "Robotic autonomous trolley collection with progressive perception and nonlinear model predictive control." *2022 International Conference on Robotics and Automation (ICRA)*. Accepted. 2022.
+-   A. Xiao\*, H. Luan\*, Z. Zhao\*, Y. Hong, J. Zhao, J. Wang, and M. Q.-H. Meng. "Robotic autonomous trolley collection with progressive perception and nonlinear model predictive control." *2022 International Conference on Robotics and Automation (ICRA)*.  Philadelphia, PA, USA, May 23-27, 2022, pp. 4480-4486. 
     -   Preprint on arXiv: [https://arxiv.org/abs/2110.06648](https://arxiv.org/abs/2110.06648). 
 
 <br/>

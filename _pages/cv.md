@@ -9,18 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-**CV**: [Last update: Feb. 1, 2021]
--   brief version: [[PDF]](/files/CV_short_HaoLuan.pdf); 
+**CV** [Last update: Jun. 1, 2021] 
 -   detailed version: [[PDF]](/files/CV_HaoLuan.pdf). 
- 
+
+<!--
+    -   brief version: [[PDF]](/files/CV_short_HaoLuan.pdf); 
+-->
 
 <br/>
 
 ## Education 
 
+### The University of Toronto 
+
+-   M.A.Sc. in Electrical and Computer Engineering, Sep. 2022 ~ Nov. 2024 (expected) 
+    -   Coursework & research foci: the intersction of game theory, controls, and robot decision-making. 
+    -   ECE MASc Student Fellowship 
+
 ### Harbin Institute of Technology 
 
--   B.Eng. in Automation, Aug. 2017 ~ Jun. 2021 
+-   B.Eng. in Automation, Sep. 2017 ~ Jun. 2021 
     -   CGPA: 3.8/4.0 , 90.1/100 ; Final-year: 93.1/100 
     -   Outstanding Bachelor's Thesis (Top 4%)
     -   Undergraduate Academic Merit Scholarship
@@ -51,10 +59,11 @@ redirect_from:
 
 <br/>
 
-## Selected Awards & Honors
+## Selected Awards, Honors & Fellowships 
 
+-   ECE Dept. MASc Student Fellowship, University of Toronto, 2022~2024. 
 -   Outstanding Bachelor's Thesis (top 4%), 2021. 
--   Undergraduate Academic Merit Scholarship, 3 times in 3 years, 2018~2020.
+-   Undergraduate Academic Merit Scholarship, Harbin Institute of Technology, 2018~2020.
 -   Honorable Mention in [MCM](https://www.comap.com/undergraduate/contests/), 2020.
 -   Third Prize in the [NOIP](http://www.noi.cn/) (National Olympiad in Informatics in Provinces), 2016.
 -   Honor Roll in the [AMC12](https://www.maa.org/math-competitions/american-mathematics-contest-12-amc-12), invited to [AIME](https://www.maa.org/math-competitions/american-invitational-mathematics-examination-aime), 2016.
@@ -66,6 +75,7 @@ redirect_from:
 ### Conference Reviewing
 
 -   IEEE International Conference on Robotics and Automation (ICRA [2022](https://www.icra2022.org/))
+-   IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS [2022](https://iros2022.org/))
 -   IEEE International Conference on Robotics and Biomimetics (ROBIO [20/21](https://ieee-robio.org/2021/))
 
 <br/>
@@ -73,7 +83,7 @@ redirect_from:
 
 ## Selected Projects 
 
-Details are provided in the [Projects page](https://edmundluan.github.io/projects/).  
+Details are provided in the [Projects page](/projects/).  
 (Team members are listed <u><i>alphabetically by last names</i></u>.)  
 
 -   **Robotic Autonomous Trolley Collection at Airports**

@@ -15,16 +15,19 @@ I am currently a research assistant at Southern University of Science and Techno
 Prior to that, I received my bachelor's degree at Harbin Institute of Technology in 2021. 
 My research interests lie in the decison-making and control of robotic systems, with a particular interest in multi-agent/robot systems.
 
-
+I will start my graduate study at the [Edward S. Rogers Sr. Department of Electrical & Computer Engineering](https://www.ece.utoronto.ca/), [University of Toronto](https://www.utoronto.ca/), as a Master of Applied Science ([MASc](https://www.ece.utoronto.ca/graduates/degree-programs/)) Student from the Fall of 2022. 
+My supervisor will be [Prof. Lacra Pavel](https://www.control.utoronto.ca/~pavel/). 
 
 Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and projects](/projects/).  
 
 <br/>
 
+
 ## News
 
--   [Feb.  1, 2021] A paper is accepted to **ICRA 2022**. Happy Chinese New Year!
-    -   A. Xiao\*, H. Luan\*, Z. Zhao\*, Y. Hong, J. Zhao, J. Wang, and M. Q.-H. Meng, "Robotic autonomous trolley collection with progressive perception and nonlinear model predictive control," *2022 International Conference on Robotics and Automation (ICRA)*. Accepted. 2022. [Preprint](https://arxiv.org/abs/2110.06648). 
+-   [May  29, 2022] Happy ICRA22! A video clip recording our oral presentation is available online [here](https://youtu.be/eTFTHZl3qT4). 
+-   [Feb. &nbsp;&nbsp;1, 2022] A paper is accepted to **ICRA 2022**. Happy Chinese New Year!
+    -   A. Xiao\*, H. Luan\*, Z. Zhao\*, Y. Hong, J. Zhao, W. Chen, J. Wang, and M. Q.-H. Meng, "Robotic autonomous trolley collection with progressive perception and nonlinear model predictive control," *International Conference on Robotics and Automation (ICRA)*, 2022. [Preprint](https://arxiv.org/abs/2110.06648). 
 -   [Sep. 15, 2021] **ICRA 2022** Paper submitted ! 
     -   Details about this project [here](/trolley-collection/). 
 -   [Jun. 24, 2021] Won the **Outstanding Bachelor's Thesis** (top 4% ) ! 
@@ -40,7 +43,9 @@ Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and 
 ## Contact
 
 E-mail: 
--   luanh (AT) mail(dot)sustech(dot)edu(dot)cn  
+-   HL@mail.utoronto.ca, where $HL := hao.luan$ 
+-   LH@mail.sustech.edu.cn, where $LH := luanh$ 
+    -   This SUSTech email address will be expired beyond July 1, 2022. 
 
 Office: 
 -   Rm. 423, South Tower, College of Engineering  

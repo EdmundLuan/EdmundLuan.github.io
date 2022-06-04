@@ -33,7 +33,7 @@ author_profile: true
 -   Advisors: Prof. [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/about.html) ([*Fellow, IEEE*](https://ieeexplore.ieee.org/author/37274117000)); Dr. [Jiankun Wang](https://jkwang1992.github.io/) 
 -   The objective is to bring about a systematic solution to **robotic autonomous trolley collection in complex and dynamic large-scale environments**, like international airports. 
 -   This integrated system renders itself a challenge involving object detection, estimation & prediction, localization, efficient & safe planning and control, and robust mechanical design. 
--   Please see [this page](/trolley-collection/) or refer to our *ICRA 2022* [paper](/publication/xiao_robotic_ICRA2022/) for details.  
+-   Please see [this page](/trolley-collection/) or refer to our *ICRA 2022* [paper](/publication/xiao-robotic-ICRA2022/) for details.  
 
 
 

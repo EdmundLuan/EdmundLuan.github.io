@@ -34,7 +34,7 @@ Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and 
     -   My thesis was ranked 1st within the Automation major of class 2021 (1/70) 
 -   [Jun. &nbsp;&nbsp;9, 2021] Successfully defended my Bachelor's thesis!
 -   [May 29, 2021] **Paper submitted** ! 
-    -   H. Luan *et al.*, "Distributed constrained consensus of multi-agent systems with uncertainties and disturbances under switching directed graphs." 2022. [Abstract](/files/abstr-Luan_distributed_2021.pdf). 
+    -   H. Luan *et al.*, "Distributed constrained consensus of multi-agent systems with uncertainties and disturbances under switching directed graphs." 2022. [Abstract](/files/abstr-Luan_distributed_2022.pdf). 
     -   Details about this research [here](/cameras/). 
 
 <br/>

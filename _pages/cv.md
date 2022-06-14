@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**CV** [Last update: Jun. 1, 2021] 
+**CV** [Last update: Jun. 14, 2022] 
 -   detailed version: [[PDF]](/files/CV_HaoLuan.pdf). 
 
 <!--

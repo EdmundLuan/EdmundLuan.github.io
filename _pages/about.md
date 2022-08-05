@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "Hao Luan (栾昊)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,21 @@ redirect_from:
   - /about.html
 ---
 
+
 Hi! Welcome to my personal pages!
 
-My name is Hao Luan (栾昊). 
-I am currently a research assistant at Southern University of Science and Technology (SUSTech), working at the *Robotic Perception & Intelligence Lab (RPILab)* jointly led by Prof. [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/about.html) and Prof. [Hong Zhang](https://webdocs.cs.ualberta.ca/~zhang/index.html). 
-Prior to that, I received my bachelor's degree at Harbin Institute of Technology in 2021. 
-My research interests lie in the decison-making and control of robotic systems, with a particular interest in multi-agent/robot systems.
+I am an incoming Master's student at the [University of Toronto](https://www.utoronto.ca/), advised by [Prof. Lacra Pavel](https://www.control.utoronto.ca/~pavel/). 
+I will start my study and research as part of the [Systems Control Group](https://www.ece.utoronto.ca/research/control-about/) at the [Edward S. Rogers Sr. Department of Electrical & Computer Engineering](https://www.ece.utoronto.ca/) from the Fall of 2022.  
 
-I will start my graduate study at the [Edward S. Rogers Sr. Department of Electrical & Computer Engineering](https://www.ece.utoronto.ca/), [University of Toronto](https://www.utoronto.ca/), as a Master of Applied Science ([MASc](https://www.ece.utoronto.ca/graduates/degree-programs/)) Student from the Fall of 2022. 
-My supervisor will be [Prof. Lacra Pavel](https://www.control.utoronto.ca/~pavel/). 
+Before graduate school, I was a research assistant at Southern University of Science and Technology (SUSTech), working at the *Robotics Perception & Intelligence Lab (RPILab)* jointly led by Prof. [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/about.html) and Prof. [Hong Zhang](https://webdocs.cs.ualberta.ca/~zhang/index.html). 
+Prior to that, I received my bachelor's degree at Harbin Institute of Technology in Shenzhen, China. 
+
+### Research Interests 
+My research interests lie in the decision-making and control of robotic systems, with a particular interest in multi-agent/robot systems. 
+For now, I am interested in tackling decision-making problems from a control and game-theoretic perspective. 
+
+
+<br/>
 
 Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and projects](/projects/).  
 
@@ -25,9 +31,9 @@ Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and 
 
 ## News
 
--   [May  29, 2022] Happy ICRA22! A video clip recording our oral presentation is available online [here](https://youtu.be/eTFTHZl3qT4). 
+-   [May  29, 2022] Happy ICRA22! A video clip recording our oral presentation is available online [here](https://youtu.be/eTFTHZl3qT4) (and [here](https://www.bilibili.com/video/BV1aA4y1d7Lb/?vd_source=59e43de47c7f6b97785ca3bfa36d97c8) for friends inside the Wall). 
 -   [Feb. &nbsp;&nbsp;1, 2022] A paper is accepted to **ICRA 2022**. Happy Chinese New Year!
-    -   A. Xiao\*, H. Luan\*, Z. Zhao\*, Y. Hong, J. Zhao, W. Chen, J. Wang, and M. Q.-H. Meng, "Robotic autonomous trolley collection with progressive perception and nonlinear model predictive control," *International Conference on Robotics and Automation (ICRA)*, 2022. [Preprint](https://arxiv.org/abs/2110.06648). 
+    -   A. Xiao\*, H. Luan\*, Z. Zhao\*, Y. Hong, J. Zhao, W. Chen, J. Wang, and M. Q.-H. Meng, "Robotic autonomous trolley collection with progressive perception and nonlinear model predictive control," *International Conference on Robotics and Automation (ICRA)*, 2022. [arXiv](https://arxiv.org/abs/2110.06648). 
 -   [Sep. 15, 2021] **ICRA 2022** Paper submitted ! 
     -   Details about this project [here](/trolley-collection/). 
 -   [Jun. 24, 2021] Won the **Outstanding Bachelor's Thesis** (top 4% ) ! 
@@ -43,13 +49,12 @@ Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and 
 ## Contact
 
 E-mail: 
--   HL@mail.utoronto.ca, where $HL := hao.luan$ 
--   LH@mail.sustech.edu.cn, where $LH := luanh$ 
-    -   This SUSTech email address will be expired beyond July 1, 2022. 
+-   hao.luan \[at\] mail(dot)utoronto(dot)ca 
 
-Office: 
+
+<!-- Office: 
 -   Rm. 423, South Tower, College of Engineering  
-    1088 Xueyuan Ave., Shenzhen 518055, China  
+    1088 Xueyuan Ave., Shenzhen 518055, China   -->
 
 
 

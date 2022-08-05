@@ -82,13 +82,12 @@ analytics:
 author:
   name             : "Hao Luan"
   avatar           : "profile.png"
-  bio              : "RA @ SUSTech\n &  
-                      incoming MASc @ UofT"
-  location         : "Shenzhen, China"
+  bio              : "Incoming MASc @ UofT"
+  location         : "Toronto, ON"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "luanh@mail.sustech.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=LiTKQ3gAAAAJ&hl" #"http://yourfullgooglescholarurl.com"
+  email            : "hao.luan[at]mail.utoronto.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

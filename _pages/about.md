@@ -11,7 +11,8 @@ redirect_from:
 
 Hi! Welcome to my personal pages!
 
-I am an incoming Master's student at the [University of Toronto](https://www.utoronto.ca/), advised by [Prof. Lacra Pavel](https://www.control.utoronto.ca/~pavel/). 
+I am an incoming Master's student at the [University of Toronto](https://www.utoronto.ca/). 
+<!--, advised by [Prof. Lacra Pavel](https://www.control.utoronto.ca/~pavel/). -->
 I will start my study and research as part of the [Systems Control Group](https://www.ece.utoronto.ca/research/control-about/) at the [Edward S. Rogers Sr. Department of Electrical & Computer Engineering](https://www.ece.utoronto.ca/) from the Fall of 2022.  
 
 Before graduate school, I was a research assistant at Southern University of Science and Technology (SUSTech), working at the *Robotics Perception & Intelligence Lab (RPILab)* jointly led by Prof. [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/about.html) and Prof. [Hong Zhang](https://webdocs.cs.ualberta.ca/~zhang/index.html). 

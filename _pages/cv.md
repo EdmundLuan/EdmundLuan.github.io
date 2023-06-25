@@ -8,23 +8,19 @@ redirect_from:
 ---
 {% include base_path %}
 
-**CV** [Last update: Aug. 5, 2022]
-
-- detailed version: [[PDF]](/files/CV_HaoLuan.pdf).
-
-<!--
-    -   brief version: [[PDF]](/files/CV_short_HaoLuan.pdf); 
--->
+**CV** 
+- [[Cloud]](https://drive.google.com/file/d/1jZkFE-CxbZ1Org_ZoUWbrZmHu8LpGQW2/view?usp=sharing)
+- [[PDF]](/files/CV_HaoLuan.pdf) (not necessarily latest) 
 
 <br/>
 
 ## Education
 
-### University of Toronto
+### National University of Singapore
 
-- M.A.Sc. in Electrical and Computer Engineering, Sep. 2022 ~ Nov. 2024 (expected)
-  - Coursework & research foci: the intersction of game theory, controls, and robot decision-making.
-  - ECE MASc Student Fellowship
+- Ph.D. in Computer Science, Aug. 2023 ~ May 2028 (expected)
+  - Coursework & research foci: safe & intelligent robot decision-making.
+  - NUS Research Scholarship
 
 ### Harbin Institute of Technology
 
@@ -53,7 +49,7 @@ redirect_from:
 
 \* indicates equal contribution.
 
-{% for post in site.publications %}
+{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
 {% endfor %}
 
@@ -61,9 +57,10 @@ redirect_from:
 
 ## Selected Awards, Honors & Fellowships
 
-- ECE Dept. MASc Student Fellowship, University of Toronto, 2022~2024.
+- NUS Research Scholarship, 2023 ~ 2027.
+<!-- - ECE Dept. MASc Student Fellowship, University of Toronto, 2022~2024. -->
 - Outstanding Bachelor's Thesis (top 4%), 2021.
-- Undergraduate Academic Merit Scholarship, Harbin Institute of Technology, 2018~2020.
+- Undergraduate Academic Merit Scholarship, Harbin Institute of Technology, 2018 ~ 2020.
 - Honorable Mention in [MCM](https://www.comap.com/undergraduate/contests/), 2020.
 - Third Prize in the [NOIP](http://www.noi.cn/) (National Olympiad in Informatics in Provinces), 2016.
 - Honor Roll in the [AMC12](https://www.maa.org/math-competitions/american-mathematics-contest-12-amc-12), invited to [AIME](https://www.maa.org/math-competitions/american-invitational-mathematics-examination-aime), 2016.
@@ -74,9 +71,14 @@ redirect_from:
 
 ### Conference Reviewing
 
-- IEEE International Conference on Robotics and Automation (ICRA [2022](https://www.icra2022.org/))
-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS [2022](https://iros2022.org/))
-- IEEE International Conference on Robotics and Biomimetics (ROBIO [20/21](https://ieee-robio.org/2021/))
+- IEEE International Conference on Robotics and Automation (ICRA'22, 23)
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS'22)
+- IEEE International Conference on Robotics and Biomimetics (ROBIO'20/21)
+
+### Journal Reviewing
+
+- IEEE Robotics and Automation Letters
+
 
 <br/>
 

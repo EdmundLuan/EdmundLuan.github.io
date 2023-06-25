@@ -11,17 +11,15 @@ redirect_from:
 
 Hi! Welcome to my personal pages!
 
-I am an incoming Master's student at the [University of Toronto](https://www.utoronto.ca/). 
-<!--, advised by [Prof. Lacra Pavel](https://www.control.utoronto.ca/~pavel/). -->
-I will start my study and research as part of the [Systems Control Group](https://www.ece.utoronto.ca/research/control-about/) at the [Edward S. Rogers Sr. Department of Electrical & Computer Engineering](https://www.ece.utoronto.ca/) from the Fall of 2022.  
+I am an incoming PhD student at the [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/). 
+I will start my study and research as part of the [Department of Computer Science](https://www.comp.nus.edu.sg/cs/) from August 2023.  
 
 Before graduate school, I was a research assistant at Southern University of Science and Technology (SUSTech), working at the *Robotics Perception & Intelligence Lab (RPILab)* jointly led by Prof. [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/about.html) and Prof. [Hong Zhang](https://webdocs.cs.ualberta.ca/~zhang/index.html). 
 Prior to that, I received my bachelor's degree at Harbin Institute of Technology in Shenzhen, China. 
 
 ### Research Interests 
-My research interests lie in the decision-making and control of robotic systems, with a particular interest in multi-agent/robot systems. 
-For now, I am interested in tackling decision-making problems from a control and game-theoretic perspective. 
-
+My research interests lie in the safe and intelligent decision-making for robotic systems, with a particular interest in multi-agent/-robot systems. 
+<!-- For now, I am interested in tackling decision-making problems from a game-theoretic perspective. -->
 
 <br/>
 
@@ -32,17 +30,21 @@ Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and 
 
 ## News
 
+-   [Jun. 22, 2023] A paper is accepted to **IROS 2023**! 
+    -   B. Xia\*, H. Luan\*, Z. Zhao\*, X. Gao, P. Xie, A. Xiao, J. Wang, M. Q.-H. Meng, &quot; Collaborative trolley transportation system with autonomous nonholonomic robots,&quot; Accepted to <i> 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>. 2023. 
+    [arXiv](https://arxiv.org/abs/2303.06624).
+-   [May &nbsp;&nbsp;3, 2023] A paper is finally accepted to **TCNS** after painstaking revisions! 
+    -   H. Luan, J. Mei, A.-G. Wu, G. Ma, "Distributed constrained consensus of multi-agent systems with uncertainties and disturbances under switching directed graphs," *IEEE Transactions on Control of Network Systems*, 2023. [paper](/publication/luan-distributed-2023/). 
+    -   Details about this research [here](/cameras/). 
 -   [May  29, 2022] Happy ICRA22! A video clip recording our oral presentation is available online [here](https://youtu.be/eTFTHZl3qT4) (and [here](https://www.bilibili.com/video/BV1aA4y1d7Lb/?vd_source=59e43de47c7f6b97785ca3bfa36d97c8) for friends inside the Wall). 
 -   [Feb. &nbsp;&nbsp;1, 2022] A paper is accepted to **ICRA 2022**. Happy Chinese New Year!
-    -   A. Xiao\*, H. Luan\*, Z. Zhao\*, Y. Hong, J. Zhao, W. Chen, J. Wang, and M. Q.-H. Meng, "Robotic autonomous trolley collection with progressive perception and nonlinear model predictive control," *International Conference on Robotics and Automation (ICRA)*, 2022. [arXiv](https://arxiv.org/abs/2110.06648). 
--   [Sep. 15, 2021] **ICRA 2022** Paper submitted ! 
+    -   A. Xiao\*, H. Luan\*, Z. Zhao\*, Y. Hong, J. Zhao, W. Chen, J. Wang, and M. Q.-H. Meng, "Robotic autonomous trolley collection with progressive perception and nonlinear model predictive control," *International Conference on Robotics and Automation (ICRA)*, 2022. 
+    [arXiv](https://arxiv.org/abs/2110.06648). 
+    [paper](/publication/xiao-robotic-ICRA2022/). 
     -   Details about this project [here](/trolley-collection/). 
 -   [Jun. 24, 2021] Won the **Outstanding Bachelor's Thesis** (top 4% ) ! 
     -   My thesis was ranked 1st within the Automation major of class 2021 (1/70) 
 -   [Jun. &nbsp;&nbsp;9, 2021] Successfully defended my Bachelor's thesis!
--   [May 29, 2021] **Paper submitted** ! 
-    -   H. Luan *et al.*, "Distributed constrained consensus of multi-agent systems with uncertainties and disturbances under switching directed graphs." 2022. [Abstract](/files/abstr-Luan_distributed_2022.pdf). 
-    -   Details about this research [here](/cameras/). 
 
 <br/>
 <br/>
@@ -50,7 +52,7 @@ Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and 
 ## Contact
 
 E-mail: 
--   hao.luan \[at\] mail(dot)utoronto(dot)ca 
+-   haoluan \[at\] u(dot)nus(dot)edu 
 
 
 <!-- Office: 

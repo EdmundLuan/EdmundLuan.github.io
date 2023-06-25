@@ -74,7 +74,7 @@ author_profile: false
 ## Related publications
 
 
--   **Details are disclosed in our paper** in [this page](/publication/luan-distributed-2021). The paper is still under review, so, for the time being, please refer to an abstract [here](/files/abstr-Luan_distributed_2022.pdf). 
+-   **Details are disclosed in our paper** in [this page](/publication/luan-distributed-2023). 
 
 
 

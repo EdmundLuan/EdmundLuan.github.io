@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hao Luan"
   avatar           : "profile.png"
-  bio              : "Incoming MASc @ UofT"
-  location         : "Toronto, ON"
+  bio              : "Incoming PhD @ NUS SoC"
+  location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LiTKQ3gAAAAJ&hl" #"http://yourfullgooglescholarurl.com"
-  email            : "hao.luan[at]mail.utoronto.ca"
+  email            : "haoluan[at]u.nus.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : #"Ih39bVTpu4ZdCCqZ6sW8sQ"  #userID
+  youtube          : "@edmundluan"  #userID
   wikipedia        :
 
 

@@ -9,7 +9,7 @@ author_profile: true
 
 ### TOC
 
-[Robotic Autonomous Trolley Collection](#robotic-autonomous-trolley-collection-ongoing)  
+[Robotic Autonomous Trolley Collection](#robotic-autonomous-trolley-collection)  
 [Distributed Consensus of Constrained MAS under Directed Graphs](#distributed-consensus-of-constrained-mas-under-directed-graphs)  
 [Vision-Based Auto Parking](#vision-based-auto-parking)  
 [Six-Arm Robot Palletizing](#six-arm-robot-palletizing)  
@@ -21,7 +21,7 @@ author_profile: true
 
 ---
 
-## Robotic Autonomous Trolley Collection (Ongoing)
+## Robotic Autonomous Trolley Collection
 
 <center>
 <img src="../images/robot_trolley.png" width="640" align="center">

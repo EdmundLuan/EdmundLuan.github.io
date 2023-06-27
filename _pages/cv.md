@@ -18,7 +18,7 @@ redirect_from:
 
 ### National University of Singapore
 
-- Ph.D. in Computer Science, Aug. 2023 ~ May 2028 (expected)
+- Ph.D. in Computer Science, Aug. 2023~
   - Coursework & research foci: safe & intelligent robot decision-making.
   - NUS Research Scholarship
 
@@ -57,13 +57,13 @@ redirect_from:
 
 ## Selected Awards, Honors & Fellowships
 
-- NUS Research Scholarship, 2023 ~ 2027.
-<!-- - ECE Dept. MASc Student Fellowship, University of Toronto, 2022~2024. -->
-- Outstanding Bachelor's Thesis (top 4%), 2021.
-- Undergraduate Academic Merit Scholarship, Harbin Institute of Technology, 2018 ~ 2020.
-- Honorable Mention in [MCM](https://www.comap.com/undergraduate/contests/), 2020.
-- Third Prize in the [NOIP](http://www.noi.cn/) (National Olympiad in Informatics in Provinces), 2016.
-- Honor Roll in the [AMC12](https://www.maa.org/math-competitions/american-mathematics-contest-12-amc-12), invited to [AIME](https://www.maa.org/math-competitions/american-invitational-mathematics-examination-aime), 2016.
+- NUS Research Scholarship, 2023~
+- Outstanding Bachelor's Thesis (top 4%), 2021
+- Undergraduate Academic Merit Scholarship, 2018 ~ 2020
+- [MCM](https://www.comap.com/undergraduate/contests/) Honorable Mention, 2020 
+
+<!-- - Third Prize in the [NOIP](http://www.noi.cn/) (National Olympiad in Informatics in Provinces), 2016.
+- Honor Roll in the [AMC12](https://www.maa.org/math-competitions/american-mathematics-contest-12-amc-12), invited to [AIME](https://www.maa.org/math-competitions/american-invitational-mathematics-examination-aime), 2016. -->
 
 <br/>
 
@@ -71,13 +71,13 @@ redirect_from:
 
 ### Conference Reviewing
 
-- IEEE International Conference on Robotics and Automation (ICRA'22, 23)
+- IEEE International Conference on Robotics and Automation (ICRA'22, '23)
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS'22)
 - IEEE International Conference on Robotics and Biomimetics (ROBIO'20/21)
 
 ### Journal Reviewing
 
-- IEEE Robotics and Automation Letters
+- IEEE Robotics and Automation Letters (RA-L)
 
 
 <br/>
@@ -145,8 +145,8 @@ Details are provided in the [Projects page](/projects/).(Team members are listed
 - Automatic Control Practice I, II
   - Controller design: input analysis, sensitivity, anti-windup design, servo systems, regulating systems, multi-loop systems, *etc*.
 - Process Control System
-- *Nonlinear and Adaptive Control* `<sup>`&dagger;`</sup>`  *(graduate level)*
-  - `<sup>`&dagger;`</sup>`*Audited*: lectures, assignments, discussions.
+- *Nonlinear and Adaptive Control* <sup>&dagger;</sup>  *(graduate level)*
+  - <sup>&dagger;</sup>*Audited*: lectures, assignments, discussions.
 
 ### Robotics
 

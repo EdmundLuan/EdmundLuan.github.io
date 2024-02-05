@@ -11,14 +11,15 @@ redirect_from:
 
 Hi! Welcome to my personal pages!
 
-I am an incoming PhD student at the [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/). 
-I will start my study and research as part of the [Department of Computer Science](https://www.comp.nus.edu.sg/cs/) from August 2023.  
+I am a first-year Ph.D. student in Computer Science at the [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/).   
 
 Before graduate school, I was a research assistant at Southern University of Science and Technology (SUSTech), working at the *Robotics Perception & Intelligence Lab (RPILab)* jointly led by Prof. [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/about.html) and Prof. [Hong Zhang](https://webdocs.cs.ualberta.ca/~zhang/index.html). 
 Prior to that, I received my bachelor's degree at Harbin Institute of Technology in Shenzhen, China. 
 
 ### Research Interests 
-My research interests lie in the safe and intelligent decision-making for robotic systems, with a particular interest in multi-agent/-robot systems. 
+
+My current research interest lies in **generative models** (*e.g.*, LLMs, Diffusion) and **decision-making**, exploring the possiblity of leveraging such combination for large-scale complex multi-agent scenarios, with potential applications in intelligent robotic systems. 
+<!-- My research interests lie in the safe and intelligent decision-making for robotic systems, with a particular interest in multi-agent/-robot systems.  -->
 <!-- For now, I am interested in tackling decision-making problems from a game-theoretic perspective. -->
 
 <br/>
@@ -31,8 +32,9 @@ Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and 
 ## News
 
 -   [Jun. 22, 2023] A paper is accepted to **IROS 2023**! 
-    -   B. Xia\*, H. Luan\*, Z. Zhao\*, X. Gao, P. Xie, A. Xiao, J. Wang, M. Q.-H. Meng, &quot; Collaborative trolley transportation system with autonomous nonholonomic robots,&quot; Accepted to <i> 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>. 2023. 
+    -   B. Xia\*, H. Luan\*, Z. Zhao\*, X. Gao, P. Xie, A. Xiao, J. Wang, M. Q.-H. Meng, &quot;Collaborative trolley transportation system with autonomous nonholonomic robots,&quot; <i>2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>. 2023. 
     [arXiv](https://arxiv.org/abs/2303.06624).
+    [paper](/publication/xia-collaborative-IROS2023/).
 -   [May &nbsp;&nbsp;3, 2023] A paper is finally accepted to **TCNS** after painstaking revisions! 
     -   H. Luan, J. Mei, A.-G. Wu, G. Ma, "Distributed constrained consensus of multi-agent systems with uncertainties and disturbances under switching directed graphs," *IEEE Transactions on Control of Network Systems*, 2023. [paper](/publication/luan-distributed-2023/). 
     -   Details about this research [here](/cameras/). 
@@ -52,7 +54,7 @@ Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and 
 ## Contact
 
 E-mail: 
--   haoluan \[at\] u(dot)nus(dot)edu 
+-   haoluan \[at\] comp(dot)nus(dot)edu(dot)sg
 
 
 <!-- Office: 

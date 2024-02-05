@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hao Luan"
   avatar           : "profile.png"
-  bio              : "Incoming PhD @ NUS SoC"
+  bio              : "CS PhD @ NUS SoC"
   location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LiTKQ3gAAAAJ&hl" #"http://yourfullgooglescholarurl.com"
-  email            : "haoluan[at]u.nus.edu"
+  email            : "haoluan[at]comp.nus.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

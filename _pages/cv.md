@@ -19,7 +19,7 @@ redirect_from:
 ### National University of Singapore
 
 - Ph.D. in Computer Science, Aug. 2023~
-  - Coursework & research foci: safe & intelligent robot decision-making.
+  - Coursework & research foci: deep generative models, decision-making. 
   - NUS Research Scholarship
 
 ### Harbin Institute of Technology

@@ -11,15 +11,16 @@ redirect_from:
 
 Hi! Welcome to my personal pages!
 
-I am a first-year Ph.D. student in Computer Science at the [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/).   
+I am a second-year Ph.D. student in Computer Science advised by Prof. [Chun Kai Ling](https://lingchunkai.github.io/) and Prof. [See-Kiong Ng](https://www.comp.nus.edu.sg/~ngsk/) at the [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/). 
+I also had the honor to work with Prof. [Harold Soh](https://haroldsoh.com/) during my first-year lab rotation at NUS SoC. 
 
 Before graduate school, I was a research assistant at Southern University of Science and Technology (SUSTech), working at the *Robotics Perception & Intelligence Lab (RPILab)* jointly led by Prof. [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/about.html) and Prof. [Hong Zhang](https://webdocs.cs.ualberta.ca/~zhang/index.html). 
-Prior to that, I received my bachelor's degree at Harbin Institute of Technology in Shenzhen, China. 
+Prior to that, I received my bachelor's degree at Harbin Institute of Technology, Shenzhen in Shenzhen, Guangdong, China, where I was fortunate to work with Prof. [Jie Mei](https://scholar.google.com/citations?hl=en&user=tyQm5IkAAAAJ). 
+
 
 ### Research Interests 
 
 My current research interest lies in **generative models** (*e.g.*, LLMs, Diffusion) and **decision-making**, exploring the possiblity of leveraging such combination for large-scale complex multi-agent scenarios, with potential applications in intelligent robotic systems. 
-<!-- My research interests lie in the safe and intelligent decision-making for robotic systems, with a particular interest in multi-agent/-robot systems.  -->
 <!-- For now, I am interested in tackling decision-making problems from a game-theoretic perspective. -->
 
 <br/>
@@ -30,7 +31,11 @@ Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and 
 
 
 ## News
-
+-   [Jul. 22, 2024] A paper is accepted to **RA-L**! 
+    -   Z. Feng\*, H. Luan\*, P. Goyal and H. Soh, &quot;LTLDoG: Satisfying Temporally-Extended Symbolic Constraints for Safe Diffusion-Based Planning,&quot; <i> IEEE Robotics and Automation Letters</i>, doi: [10.1109/LRA.2024.3443501](https://doi.org/10.1109/LRA.2024.3443501). 
+    [arXiv](https://arxiv.org/abs/2405.04235).
+    [paper](/publication/feng-ltldog-2024/).
+    -   Find more about this research [here](https://clear-nus.github.io/blog/ltldog) and codes [here](https://github.com/clear-nus/ltldog). 
 -   [Jun. 22, 2023] A paper is accepted to **IROS 2023**! 
     -   B. Xia\*, H. Luan\*, Z. Zhao\*, X. Gao, P. Xie, A. Xiao, J. Wang, M. Q.-H. Meng, &quot;Collaborative trolley transportation system with autonomous nonholonomic robots,&quot; <i>2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>. 2023. 
     [arXiv](https://arxiv.org/abs/2303.06624).
@@ -44,7 +49,7 @@ Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and 
     [arXiv](https://arxiv.org/abs/2110.06648). 
     [paper](/publication/xiao-robotic-ICRA2022/). 
     -   Details about this project [here](/trolley-collection/). 
--   [Jun. 24, 2021] Won the **Outstanding Bachelor's Thesis** (top 4% ) ! 
+-   [Jun. 24, 2021] Won the **Outstanding Bachelor's Thesis** (top 2% ) ! 
     -   My thesis was ranked 1st within the Automation major of class 2021 (1/70) 
 -   [Jun. &nbsp;&nbsp;9, 2021] Successfully defended my Bachelor's thesis!
 
@@ -56,10 +61,8 @@ Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and 
 E-mail: 
 -   haoluan \[at\] comp(dot)nus(dot)edu(dot)sg
 
-
-<!-- Office: 
--   Rm. 423, South Tower, College of Engineering  
-    1088 Xueyuan Ave., Shenzhen 518055, China   -->
+Office: 
+-   #02-21, COM3, 11 Research Link, Singapore 119391
 
 
 

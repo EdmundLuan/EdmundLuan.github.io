@@ -11,11 +11,13 @@ author_profile: true
 
 [Robotic Autonomous Trolley Collection](#robotic-autonomous-trolley-collection)  
 [Distributed Consensus of Constrained MAS under Directed Graphs](#distributed-consensus-of-constrained-mas-under-directed-graphs)  
+<!-- 
 [Vision-Based Auto Parking](#vision-based-auto-parking)  
 [Six-Arm Robot Palletizing](#six-arm-robot-palletizing)  
 [Line Patrolling Robot](#line-patrolling-robot)  
 [Stable Controller Design for Inverted Pendulum](#stable-controller-design-for-inverted-pendulum)  
-[Stable Controller Design for Magnetic Levitation](#stable-controller-design-for-magnetic-levitation)  
+[Stable Controller Design for Magnetic Levitation](#stable-controller-design-for-magnetic-levitation)   
+-->
 [Centralized Multi-Robot Task Allocation](#centralized-multi-robot-task-allocation)  
 
 
@@ -63,6 +65,7 @@ author_profile: true
 
 ---
 
+<!-- 
 ## Vision-Based Auto Parking
 
 -   Advisor: Prof. [Haoyao Chen](http://nrs-lab.com/people/) 
@@ -84,10 +87,6 @@ author_profile: true
 -   Designed robot manipulator control algorithms using forward and inverse kinematics and LFPB trajectory planning. Built position management system to add, store, modify and delete position information of objects. 
 -   Achieved fast palletizing motions with high accuracy.
 
-<!--
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WScgMeEDBrM?loop=1&autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;loop" allowfullscreen></iframe>
---->
 <video src="../videos/Palletize.mp4" width="560" height="315" controls autoplay loop align="center"></video>
 
 (Due to regulations of the laboratory, we were only allowed to operate the machine with 25% of its max speed, so this video is played with 4X fast forward.)
@@ -137,14 +136,16 @@ author_profile: true
 -   Designed a feedback controller using the root locus method. 
 
 <br/>
-<br/>
+<br/> 
+
+-->
 
 ---
 
 ## Centralized Multi-Robot Task Allocation
 
--   Advisor: Prof. [Hui Cheng](https://sdcs.sysu.edu.cn/content/2504) @ SYSU 
--   Team: **Hao Luan**, Yanheng Wang, Zihao Zeng. 
+-   Advisor: Prof. [Hui Cheng](https://cse.sysu.edu.cn/content/2504) @ SYSU 
+-   Team: **Hao Luan**, [Yanheng Wang](https://yanhengwang.github.io/), Zihao Zeng. 
 -   Designed and implemented a centralized offline task-allocation algorithm for multi-robot systems based on the Ant Colony System. 
 -   Compared with a conventional optimal DFS algorithm, simulation showed time-consuming ratios down to 1/2400 and relative errors below 10% in dense directed graphs consisting of up to 20 vertices. 
 

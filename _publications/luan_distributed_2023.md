@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/luan-distributed-2023/
 excerpt: ' '
 date: 2023-5-3
-venue: 'IEEE Transactions on Control of Network Systems.'
+venue: 'IEEE Transactions on Control of Network Systems'
 paperurl: 'https://ieeexplore.ieee.org/document/10115009'
-citation: '<b>H. Luan</b>, J. Mei, A.-G. Wu, and G. Ma. &quot;Distributed constrained consensus of multi-agent systems with uncertainties and disturbances under switching directed graphs,&quot; <i>IEEE Transactions on Control of Network Systems</i>, doi: 10.1109/TCNS.2023.3272848, 2023.'
+citation: '<b>H. Luan</b>, J. Mei, A.-G. Wu, and G. Ma. &quot;Distributed constrained consensus of multi-agent systems with uncertainties and disturbances under switching directed graphs,&quot; <i>IEEE Transactions on Control of Network Systems</i>, vol. 11, no. 1, pp. 161-172, 2024, doi: 10.1109/TCNS.2023.3272848.'
 ---
 
 

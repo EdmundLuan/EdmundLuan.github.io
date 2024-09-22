@@ -10,7 +10,7 @@ redirect_from:
 
 **CV** 
 - [[Cloud]](https://drive.google.com/file/d/1jZkFE-CxbZ1Org_ZoUWbrZmHu8LpGQW2/view?usp=sharing)
-- [[PDF]](/files/CV_HaoLuan.pdf) (not necessarily latest) 
+- [[PDF]](/files/CV_HaoLuan.pdf) (outdated most times, please refer to Cloud version whenever accessible) 
 
 <br/>
 
@@ -22,11 +22,11 @@ redirect_from:
   - Coursework & research foci: deep generative models, decision-making. 
   - NUS Research Scholarship
 
-### Harbin Institute of Technology
+### Harbin Institute of Technology, Shenzhen
 
 - B.Eng. in Automation, Sep. 2017 ~ Jun. 2021
   - CGPA: 3.8/4.0 , 90.1/100 ; Final-year: 93.1/100
-  - Outstanding Bachelor's Thesis (Top 4%)
+  - Outstanding Bachelor's Thesis (Top 2%)
   - Undergraduate Academic Merit Scholarship
   - Coursework: a detailed list [here](#selected-relevant-coursework)
 
@@ -38,10 +38,11 @@ redirect_from:
 
 ## Experience
 
-- **Research Assistant**, *Robotics Perception & Intelligence Lab* @ [**Southern University of Science and Technology**](https://www.sustech.edu.cn/en/), Aug. 2021 ~ Jul. 2022
+- **Graduate Researcher**,[* **C**ollaborative, **Le**arning, and **A**daptive **R**obots (CLeAR) Lab*](https://clear-nus.github.io/) @ [National University of Singapore](https://nus.edu.sg/), Aug. 2023 ~ Jun. 2024 
+- **Research Assistant**, * **R**obotics **P**erception & **I**ntelligence Lab* @ [**Southern University of Science and Technology**](https://www.sustech.edu.cn/en/), Aug. 2021 ~ Jul. 2022
 - **Undergraduate Research Assistant**, *MAS Lab* @ [**Harbin Institute of Technology, Shenzhen**](http://www.hitsz.edu.cn/index.html), Oct. 2019 ~ Jun. 2021
 - **Software Development Intern** @ *PengBo Technology (Shenzhen) Co. Ltd.*, Mar. 2021 ~ May 2021
-- **Visiting Research Student**, *Robotics Laboratory* @ [**Sun Yat-sen University**](http://sysu.edu.cn/en/index.htm), Nov. 2015 ~ May 2016
+- **High School Intern**, *Robotics Laboratory* (now [**R**obotics, **A**utomation, **P**ercept**I**on and **D**ecision Laboratory](http://lab.sysu-robotics.com/)) @ [**Sun Yat-sen University**](http://sysu.edu.cn/en/index.htm), Nov. 2015 ~ May 2016
 
 <br/>
 
@@ -84,16 +85,22 @@ redirect_from:
 
 ## Selected Projects
 
-Details are provided in the [Projects page](/projects/).(Team members are listed <u><i>alphabetically by last names</i></u>.)
+Details are provided in the [Projects page](/projects/).
+(Team members are listed <u><i>alphabetically by surnames</i></u>.)
+
+- **Collaborative Trolley Transportation**
+  - Advisors: Prof. [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/about.html) ([*Fellow, IEEE*](https://ieeexplore.ieee.org/author/37274117000)), SUSTech; Prof. [Jiankun Wang](https://jkwang1992.github.io/), SUSTech 
+  - Team: Xuheng Gao, **Hao Luan**, Bingyi Xia, Anxing Xiao, Peijia Xie, Ziqi Zhao
 
 - **Robotic Autonomous Trolley Collection at Airports**
-  - Advisor: Prof. [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/about.html) ([*Fellow, IEEE*](https://ieeexplore.ieee.org/author/37274117000)), SUSTech
-  - Co-advisor: Prof. [Jiankun Wang](https://jkwang1992.github.io/), SUSTech
+  - Advisors: Prof. [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/about.html) ([*Fellow, IEEE*](https://ieeexplore.ieee.org/author/37274117000)), SUSTech; Prof. [Jiankun Wang](https://jkwang1992.github.io/), SUSTech 
   - Team: Yue Hong, **Hao Luan**, Anxing Xiao, Jieting Zhao, Ziqi Zhao
 
 - **Distributed Consensus of Constrained MAS under Directed Graphs**
   - Advisor: Prof. [Jie Mei](http://faculty.hitsz.edu.cn/meijie) ([Google Scholar](https://scholar.google.com/citations?user=tyQm5IkAAAAJ)) , HIT Shenzhen
 
+
+<!--
 - Vision-Based Auto Parking
   - Advisor: Prof. [Haoyao Chen](http://nrs-lab.com/people/) , HIT Shenzhen
   - Team: Jiahao Fang, **Hao Luan**, Weijie Wu.
@@ -115,6 +122,7 @@ Details are provided in the [Projects page](/projects/).(Team members are listed
 - Centralized Multi-Robot Task Allocation
   - Advisor: Prof. [Hui Cheng](https://cse.sysu.edu.cn/content/2504) , SYSU
   - Team: **Hao Luan**, Yanheng Wang, Zihao Zeng
+-->
 
 <br/>
 

@@ -10,4 +10,5 @@ citation: 'X. Gao, H. Luan, B. Xia, Z. Zhao, J. Wang, M. Q.-H. Meng, &quot;A div
 
 ---
 
-Demo video at [youtube.com/watch?v=iPiT8BfLIpU](https://www.youtube.com/watch?v=iPiT8BfLIpU). 
+- Demo video at [youtube.com/watch?v=iPiT8BfLIpU](https://www.youtube.com/watch?v=iPiT8BfLIpU).  
+- PDF [here](/files/Gao_Divide_2023.pdf).  

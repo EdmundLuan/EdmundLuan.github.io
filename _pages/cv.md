@@ -38,11 +38,12 @@ redirect_from:
 
 ## Experience
 
-- **Graduate Researcher**,[* **C**ollaborative, **Le**arning, and **A**daptive **R**obots (CLeAR) Lab*](https://clear-nus.github.io/) @ [National University of Singapore](https://nus.edu.sg/), Aug. 2023 ~ Jun. 2024 
-- **Research Assistant**, * **R**obotics **P**erception & **I**ntelligence Lab* @ [**Southern University of Science and Technology**](https://www.sustech.edu.cn/en/), Aug. 2021 ~ Jul. 2022
+- **Graduate Researcher**, Ling's Group @ [National University of Singapore](https://nus.edu.sg/), Jul. 2024 ~  
+- **Graduate Researcher**,[<i>**C**ollaborative, **Le**arning, and **A**daptive **R**obots (CLeAR) Lab</i>](https://clear-nus.github.io/) @ NUS, Aug. 2023 ~ Jun. 2024 
+- **Research Assistant**, [<i>**R**obotics **P**erception & **I**ntelligence Lab</i>](https://robotics.sustech.edu.cn/index.aspx) @ [**Southern University of Science and Technology**](https://www.sustech.edu.cn/en/), Aug. 2021 ~ Jul. 2022
 - **Undergraduate Research Assistant**, *MAS Lab* @ [**Harbin Institute of Technology, Shenzhen**](http://www.hitsz.edu.cn/index.html), Oct. 2019 ~ Jun. 2021
 - **Software Development Intern** @ *PengBo Technology (Shenzhen) Co. Ltd.*, Mar. 2021 ~ May 2021
-- **High School Intern**, *Robotics Laboratory* (now [**R**obotics, **A**utomation, **P**ercept**I**on and **D**ecision Laboratory](http://lab.sysu-robotics.com/)) @ [**Sun Yat-sen University**](http://sysu.edu.cn/en/index.htm), Nov. 2015 ~ May 2016
+- **High School Intern**, *Robotics Laboratory* (now [<i>**R**obotics, **A**utomation, **P**ercept**I**on and **D**ecision (RAPID) Laboratory</i>](http://lab.sysu-robotics.com/)) @ [**Sun Yat-sen University**](http://sysu.edu.cn/en/index.htm), Nov. 2015 ~ May 2016
 
 <br/>
 
@@ -59,7 +60,7 @@ redirect_from:
 ## Selected Awards, Honors & Fellowships
 
 - NUS Research Scholarship, 2023~
-- Outstanding Bachelor's Thesis (top 4%), 2021
+- Outstanding Bachelor's Thesis (top 2%), 2021
 - Undergraduate Academic Merit Scholarship, 2018 ~ 2020
 - [MCM](https://www.comap.com/undergraduate/contests/) Honorable Mention, 2020 
 
@@ -79,7 +80,7 @@ redirect_from:
 ### Journal Reviewing
 
 - IEEE Robotics and Automation Letters (RA-L)
-
+- IEEE Transactions on Automation Science and Engineering (T-ASE)
 
 <br/>
 

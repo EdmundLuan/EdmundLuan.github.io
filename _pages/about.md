@@ -11,7 +11,7 @@ redirect_from:
 
 Hi! Welcome to my personal pages!
 
-I am a second-year Ph.D. student in Computer Science advised by Prof. [Chun Kai Ling](https://lingchunkai.github.io/) and Prof. [See-Kiong Ng](https://www.comp.nus.edu.sg/~ngsk/) at the [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/). 
+I am a Ph.D. Candidate in Computer Science advised by Prof. [Chun Kai Ling](https://lingchunkai.github.io/) and Prof. [See-Kiong Ng](https://www.comp.nus.edu.sg/~ngsk/) at the [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/). 
 I also had the honor to work with Prof. [Harold Soh](https://haroldsoh.com/) during my first-year lab rotation at NUS SoC. 
 
 Before graduate school, I was a research assistant at Southern University of Science and Technology (SUSTech), working at the *Robotics Perception & Intelligence Lab (RPILab)* jointly led by Prof. [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/about.html) and Prof. [Hong Zhang](https://webdocs.cs.ualberta.ca/~zhang/index.html). 
@@ -31,6 +31,10 @@ Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and 
 
 
 ## News
+-   [Jan. 31, 2025] A paper is accepted to **ICRA 2025**! Happy Chinese New Year! 
+    -   Z. Feng, **H. Luan**, K. Y. Ma and H. Soh, &quot;Diffusion Meets Options: Hierarchical Generative Skill Composition for Temporally-Extended Tasks,&quot; <i> International Conference on Robotics and Automation (ICRA)</i>, 2025. 
+    [arXiv](https://arxiv.org/abs/2410.02389).
+    [page](https://philiptheother.github.io/doppler/).
 -   [Jul. 22, 2024] A paper is accepted to **RA-L**! 
     -   Z. Feng\*, H. Luan\*, P. Goyal and H. Soh, &quot;LTLDoG: Satisfying Temporally-Extended Symbolic Constraints for Safe Diffusion-Based Planning,&quot; <i> IEEE Robotics and Automation Letters</i>, doi: [10.1109/LRA.2024.3443501](https://doi.org/10.1109/LRA.2024.3443501). 
     [arXiv](https://arxiv.org/abs/2405.04235).
@@ -43,7 +47,7 @@ Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and 
 -   [May &nbsp;&nbsp;3, 2023] A paper is finally accepted to **TCNS** after painstaking revisions! 
     -   H. Luan, J. Mei, A.-G. Wu, G. Ma, "Distributed constrained consensus of multi-agent systems with uncertainties and disturbances under switching directed graphs," *IEEE Transactions on Control of Network Systems*, 2023. [paper](/publication/luan-distributed-2023/). 
     -   Details about this research [here](/cameras/). 
--   [May  29, 2022] Happy ICRA22! A video clip recording our oral presentation is available online [here](https://youtu.be/eTFTHZl3qT4) (and [here](https://www.bilibili.com/video/BV1aA4y1d7Lb/?vd_source=59e43de47c7f6b97785ca3bfa36d97c8) for friends inside the Wall). 
+-   [May  29, 2022] Happy ICRA'22! A video clip recording our oral presentation is available online [here](https://youtu.be/eTFTHZl3qT4) (and [here](https://www.bilibili.com/video/BV1aA4y1d7Lb/?vd_source=59e43de47c7f6b97785ca3bfa36d97c8) for friends inside the Wall). 
 -   [Feb. &nbsp;&nbsp;1, 2022] A paper is accepted to **ICRA 2022**. Happy Chinese New Year!
     -   A. Xiao\*, H. Luan\*, Z. Zhao\*, Y. Hong, J. Zhao, W. Chen, J. Wang, and M. Q.-H. Meng, "Robotic autonomous trolley collection with progressive perception and nonlinear model predictive control," *International Conference on Robotics and Automation (ICRA)*, 2022. 
     [arXiv](https://arxiv.org/abs/2110.06648). 

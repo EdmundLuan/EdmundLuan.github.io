@@ -21,6 +21,10 @@ main:
 
   - title: "Publications"
     url: /publications/
+
+  - title: "中文"
+    # url: /zhongwen/
+    url: /cn/
   
   # - title: "Markdown Guide"
   #   url: /markdown/

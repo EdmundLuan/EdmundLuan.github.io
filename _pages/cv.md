@@ -19,7 +19,7 @@ redirect_from:
 ### National University of Singapore
 
 - Ph.D. in Computer Science, Aug. 2023~
-  - Coursework & research foci: deep generative models, decision-making. 
+  - Coursework & research foci: generative modeling, decision-making. 
   - NUS Research Scholarship
 
 ### Harbin Institute of Technology, Shenzhen
@@ -39,7 +39,7 @@ redirect_from:
 ## Experience
 
 - **Graduate Researcher**, Ling's Group @ [National University of Singapore](https://nus.edu.sg/), Jul. 2024 ~  
-- **Graduate Researcher**,[<i>**C**ollaborative, **Le**arning, and **A**daptive **R**obots (CLeAR) Lab</i>](https://clear-nus.github.io/) @ NUS, Aug. 2023 ~ Jun. 2024 
+- **Graduate Researcher**, [<i>**C**ollaborative, **Le**arning, and **A**daptive **R**obots (CLeAR) Lab</i>](https://clear-nus.github.io/) @ NUS, Aug. 2023 ~ May 2024 
 - **Research Assistant**, [<i>**R**obotics **P**erception & **I**ntelligence Lab</i>](https://robotics.sustech.edu.cn/index.aspx) @ [**Southern University of Science and Technology**](https://www.sustech.edu.cn/en/), Aug. 2021 ~ Jul. 2022
 - **Undergraduate Research Assistant**, *MAS Lab* @ [**Harbin Institute of Technology, Shenzhen**](http://www.hitsz.edu.cn/index.html), Oct. 2019 ~ Jun. 2021
 - **Software Development Intern** @ *PengBo Technology (Shenzhen) Co. Ltd.*, Mar. 2021 ~ May 2021

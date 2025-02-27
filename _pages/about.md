@@ -20,7 +20,7 @@ Prior to that, I received my bachelor's degree at Harbin Institute of Technology
 
 ### Research Interests 
 
-My current research interest lies in **generative models** (*e.g.*, LLMs, Diffusion) and **decision-making**, exploring the possiblity of leveraging such combination for large-scale complex multi-agent scenarios, with potential applications in intelligent robotic systems. 
+My current research interest lies in **generative models** and **decision-making**, exploring the possiblity of leveraging such combination for complex multi-agent scenarios. 
 <!-- For now, I am interested in tackling decision-making problems from a game-theoretic perspective. -->
 
 <br/>

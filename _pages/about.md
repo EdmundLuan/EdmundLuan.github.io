@@ -31,6 +31,10 @@ Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and 
 
 
 ## News
+-   [Jan. 30, 2026] A paper is accepted to **ICLR 2026**! 
+    -   **H. Luan**, Y. X. Goh, S.-K. Ng, C. K. Ling, &quot;Projected Coupled Diffusion for Test-Time Constrained Joint Generation,&quot; <i>International Conference on Learning Representations</i>, 2026. 
+    [arXiv](https://arxiv.org/abs/2508.10531).
+    [code](https://github.com/EdmundLuan/pcd).
 -   [Jan. 31, 2025] A paper is accepted to **ICRA 2025**! Happy Chinese New Year! 
     -   Z. Feng, **H. Luan**, K. Y. Ma and H. Soh, &quot;Diffusion Meets Options: Hierarchical Generative Skill Composition for Temporally-Extended Tasks,&quot; <i> International Conference on Robotics and Automation (ICRA)</i>, 2025. 
     [arXiv](https://arxiv.org/abs/2410.02389).
@@ -40,7 +44,8 @@ Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and 
     [arXiv](https://arxiv.org/abs/2405.04235).
     [paper](/publication/feng-ltldog-2024/).
     -   Find more about this research [here](https://clear-nus.github.io/blog/ltldog) and codes [here](https://github.com/clear-nus/ltldog). 
--   [Jun. 22, 2023] A paper is accepted to **IROS 2023**! 
+
+<!-- -   [Jun. 22, 2023] A paper is accepted to **IROS 2023**! 
     -   B. Xia\*, H. Luan\*, Z. Zhao\*, X. Gao, P. Xie, A. Xiao, J. Wang, M. Q.-H. Meng, &quot;Collaborative trolley transportation system with autonomous nonholonomic robots,&quot; <i>2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>. 2023. 
     [arXiv](https://arxiv.org/abs/2303.06624).
     [paper](/publication/xia-collaborative-IROS2023/).
@@ -55,7 +60,7 @@ Now, feel free to visit the [Bio page](/cv/) or have a look at my [research and 
     -   Details about this project [here](/trolley-collection/). 
 -   [Jun. 24, 2021] Won the **Outstanding Bachelor's Thesis** (top 2% ) ! 
     -   My thesis was ranked 1st within the Automation major of class 2021 (1/70) 
--   [Jun. &nbsp;&nbsp;9, 2021] Successfully defended my Bachelor's thesis!
+-   [Jun. &nbsp;&nbsp;9, 2021] Successfully defended my Bachelor's thesis! -->
 
 <br/>
 <br/>

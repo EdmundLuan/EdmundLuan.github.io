@@ -11,8 +11,8 @@ redirect_from:
 
 Hi! Welcome to my personal pages!
 
-I am a Ph.D. Candidate in Computer Science advised by Prof. [Chun Kai Ling](https://lingchunkai.github.io/) and Prof. [See-Kiong Ng](https://www.comp.nus.edu.sg/~ngsk/) at the [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/). 
-I also had the honor to work with Prof. [Harold Soh](https://haroldsoh.com/) during my first-year lab rotation at NUS SoC. 
+I am a Ph.D. Candidate in Computer Science advised by Prof. [Zhiyong Huang](https://www.comp.nus.edu.sg/cs/people/huangzy/) at the [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/). 
+I also had the honor to collaborate with Prof. [Chun Kai Ling](https://lingchunkai.github.io/), Prof. [See-Kiong Ng](https://www.comp.nus.edu.sg/~ngsk/), and Prof. [Harold Soh](https://haroldsoh.com/) at NUS SoC. 
 
 Before graduate school, I was a research assistant at Southern University of Science and Technology (SUSTech), working at the *Robotics Perception & Intelligence Lab (RPILab)* jointly led by Prof. [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/about.html) and Prof. [Hong Zhang](https://webdocs.cs.ualberta.ca/~zhang/index.html). 
 Prior to that, I received my bachelor's degree at Harbin Institute of Technology, Shenzhen in Shenzhen, Guangdong, China, where I was fortunate to work with Prof. [Jie Mei](https://scholar.google.com/citations?hl=en&user=tyQm5IkAAAAJ). 
